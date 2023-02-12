@@ -1,6 +1,854 @@
+17Zuoye
+1Password
+23andMe
+36Kr Media
+58 Daojia
+5ire
+6sense
+9F
+Acko
+Acorns
+Acronis
+ActiveCampaign
+Ada
+Addepar
+Adyen
+Afiniti
+Age of Learning, Inc.
+Aihuishou
+AirWatch
 Airbnb
-Google
+Aircall
+Airtable
+Airwallex
+Aiven
+Aiways
+Ajaib
+Akulaku
+Alan
+Alation
+Alchemy
+Alchemy
+Algolia
+Alibaba
+AlphaSense
+AmWINS Group
+Amber Group
+Amplitude
+Andela
+Anduril Industries
+Animoca Brands
+Ankorstore
+Apna
+Apotea
+AppDirect
+AppDynamics
+AppLovin
+Applied Intuition
+ApplyBoard
+AppsFlyer
+Aprogen
+Apus Group
+Aqua Security
+Arctic Wolf Networks
+Argo AI
+Articulate
+Ascend Money
+Asia First Media
+Assent Compliance
+Atlassian
+Aurora
+Auth0
+Automation Anywhere
+Automattic
+Avant
+AvidXchange
+Avito.ru
+Away
+Axonius
+Babylon Health
+Babytree
+Back Market
+Back market
+Beibei
+Beijing Weiying Technology
+Benevity
+BenevolentAI
+Better Place
+Better.com
+BharatPe
+BigID
+Bigbasket
+BillDesk
+Biosplice Therapeutics
+Bird
+BitSight
+Bitkub
+Bitmain
+Bitpanda
+Bitso
+BlaBlaCar
+Blackbuck
+Blibli
+Blinkit
+Blockchain.com
+Blockstream
+Bloom Energy
+Blue Apron
+BlueVoyant
+Bluecore
+Bolt
+Bolt Financial
+Bought By Many
+Box
+Branch Metrics
+Brex
+Bringg
+BrowserStack
+Bucketplace
+Bukalapak
+Bunq
+Byju's
+ByteDance
+Byton
+C6 Bank [pt]
+CARS24
+CATL
+CMR Surgical
+CRED
+Cabify
+Cadence Solutions, Inc.
+Calabrio
+Calendly
+Calm
+Cambricon
+Canva
+Caocao Zhuanche
+CarDekho
+Careem
+Carousell
+Carro
+Carsome
+Carta
+Cato Networks
+Cazoo
+Celonis
+Chainalysis
+Chargebee
+Checkout.com
+Checkr
+Chehaoduo
+Chime
+Chubao Technology
+Clara
+Clari
+Clearco
+ClickHouse
+Clio
+Clip
+CloudKitchens
+Cloudflare
+Clubhouse
+Coalition
+Cockroach Labs
+Cognite
+Cohesity
+CoinDCX
+CoinSwitch Kuber
+Coinbase
+Collibra
+Commure
+Compass
+Confluent
+ConsenSys
+Contentful
+Contentsquare
+Convoy
+Copado
+Coupa
+Coupang
+Coursera
+Coveo
+Credit Karma
+Creditas [pt]
+Culture Amp
+CureFit
+Cybereason
+DANA
+DJI
+DXY
+Daangn Market
+Dada
+Dapper Labs
+Darktrace
+DataRobot
+Databricks
+Dataiku
+Dataminr
+Deel
+Deezer
+Deezer
+Delhivery
+Deliverect
+Deliveroo
+Deliverr
+Dental Monitoring
+Deutsche Health
+Devo Inc
+Devoted Health
+Dfinity
+DiDi
+Digit Insurance
+Digital Currency Group
+Discord
+DistroKid
+Divvy Homes
+Doctolib
+DoorDash
+DouYu
+Dragos
+Dream Games
+Dream11
+DriveNets
+DriveNets
+DriveWealth
+Droom
+Dropbox
+Druva
+Dt Dream
+Dunamu
+Duo Security
+Duolingo
+EMPG
+ETCP
+Earnix
+Ebanx
+Ecovadis
+Eightfold.ai
+Einride
+Ele.me
+Emplifi
+Epic Games
+Epidemic Sound
+Eruditus
+Essential Products
+Exabeam
+Exotec
+FXiaoKe
+Fab
 Facebook
-OpenAI
+Fair
+Faire
+Fanatics
+Fangdd.com
+Fanli
+Farfetch
+Feedzai
+Figma
+FirstCry
+Firstp2p
+FiscalNote
+Five Star Finance
+Fivetran
+Flash Express
+Flexe
+Flexport
+Flipkart
+FlixMobility
+FloQast
+Flutterwave
+Flywire
+Formlabs
+Forter
+Forto
+Fractal
+FreshBooks
+Freshly
+Freshworks
+Frontline Education
+Futu Holdings
+G2
+GPClub
+Gelato
+GeoComply
+GetBlock
+GetYourGuide
+Getir
+Gett
+Gilt Groupe
+Ginkgo Bioworks
+Gitlab
+Glance
+Global Fashion Group
+GlobalBees
+Glossier
+Glovo
+Go1
+GoGoVan
+GoPro
+GoPuff
+GoStudent
+Gojek
+Gong
+Good Technology
+GoodLeap
+Gorillas
+Gousto
+Grab
+Grafana Labs
+Grammarly
+Graphcore
+Groupon
+Grove Collaborative
+Grover
+Groww
+Gupshup
+Gusto
+Gympass
+Gymshark
+Hailo
+Harness
+HeadSpin
+HeartFlow
+Hello TransTech
+Hellobike
+HeyTea
+Hibob
+HighRadius
+Highspot
+Hike Messenger
+Hinge Health
+Hive
+HomeAway
+HomeLight
+HoneyBook
+Hopin
+Hopper
+Horizon Robotics
+Houzz
+Huikedu Group
+Huimin.cn
+IAD
+ID.me
+IFood
+IGAWorks
+Icertis
+Illumio
+Improbable
+InMobi
+InVision
+Incode
+Infinidat
+Infobip
+Infra.Market
+Injective
+Innovaccer
+Innovent Biologics
+Instabase
+Instacart
+Intarcia Therapeutics
+Intercom
+IronSource
+Iterable
+Ivalua
+Iwjw
+J&T Express
+JFrog
+JUUL Labs
+Jasper
+Jet.com
+Jia.com
+Jokr
+Jollychic
+JoyTunes
+Judo Bank
+Jumpcloud
+Kabam
+Kavak
+KeepTruckin
+Kik
+Kingsoft
+Kitopi
+Klarna
+Klaviyo
+Klook
+Knotel
+Konfio
+Kopi Kenangan
+Koudai Gouwu
+Kr Space
+Krafton
+Kredivo
+Kry
+KuCoin
+Kuaishou
+Kurly
+Kyriba
+L&P Cosmetic
+LMAX Group
+Lacework
+Lakala
+Lalamove
+Lamabang
+Landa Digital Printing
+Ledger
+Lending Club
+Lenskart
+Letgo
+LetsGetChecked
+Lianjia (Homelink)
+Licious
+Lightricks
+Lilium GmbH
+LinkSure Network (WiFi Master Key)
+LinkedIn
+Liquid Group
+LivingSocial
+Locus Robotics
+Loft Brazil Technology [pt]
+Loggi [pt]
+Lookout
+Lucid Software
+Luckin Coffee
+Lufax
+Lunar
+Luoji Siwei
+Lydia
+Lyft
+Lynda.com
+M1 Finance
+MEGAZONE
+MOLOCO
+MPL
+MadeiraMadeira [pt]
+Magic Leap
+Maimai
+Mamaearth
+Mambu
+ManoMano
+Maoyan
+Marshmallow
+MasterClass
+Matillion
+Matrixport
+MedMen
+Meero
+Meesho
+Megvii
+Meicai.cn
+Meitu
+Meituan-Dianping
+Meizu
+Melio
+Mensa Brands
+Merama
+Mercari
+MessageBird
+Mia.com
+MindMaze
+MindTickle
+Mirakl
+Miro
+MissFresh
+MobiKwik
+Mobike
+MobileCoin
+Mobileye
+Mobvoi
+Moderna Therapeutics
+Mofang Apartment
+Moglix
+Mogu
+Moka
+Mollie
+Monday.com
+Monzo
+MoonPay
+Morning Consult
+Moveworks
+Mozido
+Mu Sigma
+MuleSoft
+Mural
+Musinsa
+MyGlamm
+Mynt
+N26
+NantHealth
+NantOmics
+Nature's Fynd
+Neo Financial
+NetDocuments
+Netskope
+New Relic
+New York General Group, Inc.
+Nexii
+Next Insurance
+NextSilicon
+Nextdoor
+Nexthink
+Nextiva
+Niantic
+Ninebot
+Ninja Van
+Nium
+NoBroker
+Noom
+Nord Security
+Northvolt
+NotCo
+Notion Labs
+Novogene
+Nubank
+Numbrs
+Nuro
+Nutanix
+Nykaa
+OCSiAl
+OPay
+OVO
+OakNorth
+Octopus Energy
+Odoo
+OfBusiness
+Okta
+Ola Cabs
+Ola Electric
+Olive
+One Medical
+OneCard
+OneTrust
+OpenSea
+Opn (Synqa)
+OrCam
+Orca Security
+Oscar Health
+OutSystems
+Outreach
+OwnBackup
+Oxford Nanopore Technologies
+Oyo
+PAX Labs
+Paidy
+PandaDoc
+Pantheon Systems
+Panther Labs, Inc.
+Papaya Global
+PatSnap
+Patreon
+Paxos
+PayFit
+Payhawk
+Paytm
+Paytm Mall
+Peak Games
+Peloton
+Pendo
+Pentera
+Perimeter 81
+Personio
+PharmEasy
+PhonePe
+Physics Wallah
+Picsart
+Pinduoduo
+Pine Labs
+Pinterest
+Pipedrive
+Pivotal
+Plaid
+Playco
+Pleo
+Plus.ai
+Podium
+PointClickCare
+PolicyBazaar
+Pony.ai
+Postman
+Postmates
+Preferred Networks
+Printful
+Pristyn Care
+Prosper Marketplace
+Proteus Digital Health
+PsiQuantum
+Pure Storage
+QOMPLX, Inc.
+QingCloud
+Qonto
+Quikr
+QuintoAndar [pt]
+Quizlet
+Quora
+Quotient Technology
+REEF Technology
+RIDI
+Ramp
+Rappi
+Rapyd
+Razorpay
+ReNew Power
+Rebel Foods
+Rec Room
+Reddit
+Redis Labs
+Relativity Space
+ReliaQuest
+Remote
+Rent the Runway
+Revolut
+Revolution Precrafted
+Ripple
+Rippling
+Rivigo
+Ro
+Robinhood
+Rohlik
+Roivant Sciences
+Roku, Inc.
+Royole
+Rubicon Global
+Rubrik
+SSENSE
+SafetyCulture
+SambaNova
+Samsara
+Sanpower Group
+Scale AI
+Scandit
+Scopely
+Sea Limited
+Seismic
+Sennder
+SenseTime
+SentinelOne
+ServiceTitan
+Shape Security
+ShareChat
+Shazam
+Shein
+Shift Technology
+Shippo
+ShopClues
+Shopify
+Shouqi
+Sift
+SimpliVity
+Sisense
+Sky Mavis
+Skype
+Skyscanner
+Slack Technologies
+Slice
+SmartAsset
+SmartHR
+SmartMore
+SmartNews
+SmileDirectClub
+Snap Inc
+Snapdeal
+Snowflake
+Snyk
+SoFi
+Socar
+Socure
+Solarisbank
+Solstice
+Sonder Corp.
+Sorare
+Souche
+SoundHound
+Sourcegraph
+SpaceX
+Spendesk
+Spiber
+Spinny
+Splashtop
+Sportradar
+SpotOn
+Spotify
+Spring Rain Software
+Square
+Squarespace
+Staffbase
+Starburst Data
+StarkWare Industries
+Starling Bank
+Stash
+Stemcentrx
+Stitch Fix
+StockX
 Stripe
+Suning Sports
+Sunrun
+Swiggy
+Swile
+Sword Health
+Symphony
+Sysdig
+Taihe Music Group
+Talkdesk
+Tanium
+Taopiaopiao
+Tekion
+Telegram
+Tempus
+Tencent Music
+Tenstorrent
+Tezign
+The Hut Group
+ThoughtSpot
+Thrasio
+Three Squirrels
+Thumbtack
+TiendaNube
+Tiket.com
+Tipalti
+Toast
+Tokopedia
+Tongdun Technology
+Tractable
+Trade Republic
+Tradeshift
+TradingView
+Transmit Security
+Traveloka
+Trax
+Trendy International Group
+Trendyol
+Tresata
+Tridge
+TripActions
+TrueLayer
+Truecaller
+Trulioo
+Trustly
+TuSimple
+Tuandaiwang
+Tujia.com
+Turo
+Twilio
+Twitter
+UBtech Robotics
+UCloud
+Ualá
 Uber
+Ucar
+Ucommune
+Udaan
+Udacity
+Udemy
+UiPath
+Unacademy
+UnionPay
+Unisound
+Unite Us
+United Imaging Healthcare
+Unqork
+Upstox
+Uptake
+Urban Company
+Uxin
+VANCL
+VAST Data
+VIPKID
+VTEX [pt]
+VTS
+Vedantu
+Veepee
+VerSe Innovation
+Verbit
+Vestiaire Collective
+Via Transportation
+Vice Media
+Vinted
+Virta Health
+Visier
+Viva Republica (Toss)
+Vlocity
+Voi
+Vonage
+Voodoo
+Vox Media
+Voyager
+WHOOP
+Wacai.com
+WalkMe
+Warby Parker
+Wave
+Wayfair
+Wayflyer
+WeDoctor
+WeLab
+WeRide
+WeWork
+Webflow
+Wefox
+Wemakeprice
+WhatsApp
+Wheels Up
+Wildlife
+Wise
+Wiz
+Womai
+Woowa Brothers
+Workato
+Workhuman
+Workrise
+Xendit
+Xiaohongshu
+Xiaomi
+Xiaozhu.com
+Xingsheng Youxuan
+XtalPi
+YH Global
+Yanolja
+Yello Mobile
+Yidian Zixun
+Yinlong Group
+Yitu Technology
+Yixia Technology
+Yotpo
+Youxia Motors
+Yuanfudao
+Yugabyte
+YunQuNa
+ZBJ.com
+Zalando
+Zego
+Zenefits
+Zenoti
+Zepz
+Zerodha
+Zeta
+Zetwerk
+Zhaogang.com
+Zhihu
+Zhuanzhuan
+ZigBang
+Zilch
+Zimi
+Zipline
+Ziroom
+Zocdoc
+Zomato
+ZongMu Technology
+Zoom
+Zoox
+Zulily
+Zume
+Zuoyebang
+Zynga
+bKash
+dLocal
+dutchie
+e-Shang Redwood
+eFront
+eSentire
+eToro
+ezCater
+iCapital Network
+iCarbonX
+iTutorGroup
+upGrad
+volocopter
