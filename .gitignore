@@ -1,0 +1,9 @@
+# output
+out
+data/meta.pkl
+data/train.bin
+data/val.bin
+
+# python
+__pycache__
+
