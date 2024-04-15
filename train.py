@@ -12,17 +12,17 @@ eval_iters = 200
 log_interval = 200
 # data
 dataset = "names"
-batch_size = 16
+batch_size = 32
 block_size = 12  # context length
 # model
-n_layer = 2
-n_head = 2
-n_embd = 32
+n_layer = 4
+n_head = 4
+n_embd = 48
 dropout = 0.0  # for pretraining 0 is good, for finetuning try 0.1+
 bias = False  # do we use bias inside LayerNorm and Linear layers?
 # adamw optimizer
 learning_rate = 1e-4  # max learning rate
-max_iters = 1000
+max_iters = 4000
 # system
 device = (
     "cpu"  # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1' etc., or try 'mps' on macbooks

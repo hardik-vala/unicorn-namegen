@@ -14,7 +14,7 @@ Ada
 Addepar
 Adyen
 Afiniti
-Age of Learning, Inc.
+Age of Learning
 Aihuishou
 AirWatch
 Airbnb
@@ -111,13 +111,13 @@ Bunq
 Byju's
 ByteDance
 Byton
-C6 Bank [pt]
+C6 Bank
 CARS24
 CATL
 CMR Surgical
 CRED
 Cabify
-Cadence Solutions, Inc.
+Cadence Solutions
 Calabrio
 Calendly
 Calm
@@ -170,7 +170,7 @@ Coupang
 Coursera
 Coveo
 Credit Karma
-Creditas [pt]
+Creditas
 Culture Amp
 CureFit
 Cybereason
@@ -396,17 +396,17 @@ Lending Club
 Lenskart
 Letgo
 LetsGetChecked
-Lianjia (Homelink)
+Lianjia
 Licious
 Lightricks
 Lilium GmbH
-LinkSure Network (WiFi Master Key)
+LinkSure Network
 LinkedIn
 Liquid Group
 LivingSocial
 Locus Robotics
-Loft Brazil Technology [pt]
-Loggi [pt]
+Loft Brazil Technology
+Loggi
 Lookout
 Lucid Software
 Luckin Coffee
@@ -420,7 +420,7 @@ M1 Finance
 MEGAZONE
 MOLOCO
 MPL
-MadeiraMadeira [pt]
+MadeiraMadeira
 Magic Leap
 Maimai
 Mamaearth
@@ -481,7 +481,7 @@ Neo Financial
 NetDocuments
 Netskope
 New Relic
-New York General Group, Inc.
+New York General Group
 Nexii
 Next Insurance
 NextSilicon
@@ -519,7 +519,7 @@ One Medical
 OneCard
 OneTrust
 OpenSea
-Opn (Synqa)
+Opn
 OrCam
 Orca Security
 Oscar Health
@@ -532,7 +532,7 @@ PAX Labs
 Paidy
 PandaDoc
 Pantheon Systems
-Panther Labs, Inc.
+Panther Labs
 Papaya Global
 PatSnap
 Patreon
@@ -573,11 +573,11 @@ Prosper Marketplace
 Proteus Digital Health
 PsiQuantum
 Pure Storage
-QOMPLX, Inc.
+QOMPLX
 QingCloud
 Qonto
 Quikr
-QuintoAndar [pt]
+QuintoAndar
 Quizlet
 Quora
 Quotient Technology
@@ -605,7 +605,7 @@ Ro
 Robinhood
 Rohlik
 Roivant Sciences
-Roku, Inc.
+Roku
 Royole
 Rubicon Global
 Rubrik
@@ -752,7 +752,7 @@ Uxin
 VANCL
 VAST Data
 VIPKID
-VTEX [pt]
+VTEX
 VTS
 Vedantu
 Veepee
@@ -764,7 +764,7 @@ Vice Media
 Vinted
 Virta Health
 Visier
-Viva Republica (Toss)
+Viva Republica
 Vlocity
 Voi
 Vonage
@@ -852,3 +852,950 @@ iCarbonX
 iTutorGroup
 upGrad
 volocopter
+3Com
+3M
+A.G. Edwards
+Abbott Laboratories
+Abercrombie & Fitch
+ABM Industries
+Ace Hardware
+ACT Manufacturing
+Acterna
+Adams Resources & Energy
+ADC Telecommunications
+Adelphia Communications
+Administaff
+Adobe Systems
+Adolph Coors
+Advance Auto Parts
+Advanced Micro Devices
+AdvancePCS
+Advantica Restaurant
+AES
+Aetna
+Affiliated Computer Services
+AFLAC
+AGCO
+Agilent Technologies
+Agway
+Apartment Investment and Management
+Air Products and Chemicals
+Airborne
+Airgas
+AK Steel Holding
+Alaska Air
+Alberto-Culver
+Albertson's
+Alcoa
+Alleghany
+Allegheny Energy
+Allegheny Technologies
+Allergan
+ALLETE
+Alliant Energy
+Allied Waste Industries
+Allmerica Financial
+Allstate
+ALLTEL
+Alpine
+Amazon.com
+AMC Entertainment
+American Power Conversion
+Amerada Hess
+AMERCO
+Ameren
+America West Holdings
+American Axle & Manufacturing Holdings
+American Eagle Outfitters
+American Electric Power
+American Express
+American Financial
+American Greetings
+American International
+American Standard Companies
+American Water Works
+AmerisourceBergen
+Ames Department Stores
+Amgen
+Amkor Technology
+AMR
+AmSouth Bancorp.
+Amtran
+Anadarko Petroleum
+Analog Devices
+Anheuser-Busch Companies
+Anixter International
+AnnTaylor
+Anthem
+AOL Time Warner
+Aon
+Apache
+Apple Computer
+Applera
+Applied Industrial Technologies
+Applied Materials
+Aquila
+ARAMARK
+Arch Coal
+Archer Daniels Midland
+Arkansas Best
+Armstrong Holdings
+Arrow Electronics
+ArvinMeritor
+Ashland
+Astoria Financial
+AT&T
+Atmel
+Atmos Energy
+Audiovox
+Autoliv
+Automatic Data Processing
+AutoNation
+AutoZone
+Avaya
+Avery Dennison
+Avista
+Avnet
+Avon Products
+Baker Hughes
+Ball
+Bank of America
+Bank of New York
+Bank One
+Banknorth
+Banta
+Barnes & Noble
+Bausch & Lomb
+Baxter International
+BB&T
+Bear Stearns Companies
+Beazer Homes USA
+Beckman Coulter
+Becton Dickinson
+Bed Bath & Beyond
+Belk
+Bell Microproducts
+BellSouth
+Belo
+Bemis
+Benchmark Electronics
+Berkshire Hathaway
+Best Buy
+Bethlehem Steel
+Beverly Enterprises
+Big Lots
+BJ Services
+BJ's Wholesale Club
+Black & Decker
+Black Hills
+BMC Software
+Boeing
+Boise Cascade
+Borders
+BorgWarner
+Boston Scientific
+Bowater
+Briggs & Stratton
+Brightpoint
+Brinker International
+Bristol-Myers Squibb
+Broadwing
+Brown Shoe
+Brown-Forman
+Brunswick
+Budget
+Burlington Coat Factory Warehouse
+Burlington Industries
+Burlington Northern Santa Fe
+Burlington Resources
+C. H. Robinson Worldwide
+Cablevision Systems
+Cabot
+Cadence Design Systems
+Calpine
+Campbell Soup
+Capital One Financial
+Cardinal Health
+Caremark Rx
+Carlisle Cos.
+Carpenter Technology
+Casey's General Stores
+Caterpillar
+CBRL
+CDI
+CDW Computer Centers
+CellStar
+Cendant
+Cenex Harvest States Cooperatives
+Centex
+CenturyTel
+Ceridian
+CH2M Hill Cos.
+Champion Enterprises
+Charles Schwab
+Charming Shoppes
+Charter Communications
+Charter One Financial
+ChevronTexaco
+Chiquita Brands International
+Chubb
+Ciena
+Cigna
+Cincinnati Financial
+Cinergy
+Cintas
+Circuit City Stores
+Cisco Systems
+Citigroup
+Citizens Communications
+CKE Restaurants
+Clear Channel Communications
+Clorox
+CMGI
+CMS Energy
+CNF
+Coca-Cola
+Coca-Cola Enterprises
+Colgate-Palmolive
+Collins & Aikman
+Comcast
+Comdisco
+Comerica
+Comfort Systems USA
+Commercial Metals
+Community Health Systems
+Compass Bancshares
+Computer Associates International
+Computer Sciences
+Compuware
+Comverse Technology
+ConAgra Foods
+Concord EFS
+Conectiv
+Conoco
+Conseco
+Consolidated Freightways
+Consolidated Edison
+Constellation Brands
+Constellation Emergy
+Continental Airlines
+Convergys
+Cooper Cameron
+Cooper Industries
+Cooper Tire & Rubber
+Corn Products International
+Corning
+Costco Wholesale
+Countrywide Credit Industries
+Coventry Health Care
+Cox Communications
+Crane
+Crompton
+Crown Cork & Seal
+CSK Auto
+CSX
+Cummins
+CVS
+Cytec Industries
+D&K Healthcare Resources
+D.R. Horton
+Dana
+Danaher
+Darden Restaurants
+DaVita
+Dean Foods
+Deere
+Del Monte Foods Co
+Dell Computer
+Delphi
+Delta Air Lines
+Deluxe
+Devon Energy
+Di Giorgio
+Dial
+Diebold
+Dillard's
+DIMON
+Dole Food
+Dollar General
+Dollar Tree Stores
+Dominion Resources
+Domino's Pizza
+Dover
+Dow Chemical
+Dow Jones
+DPL
+DQE
+Dreyer's Grand Ice Cream
+DST Systems
+DTE Energy
+E.I. Du Pont de Nemours
+Duke Energy
+Dun & Bradstreet
+DURA Automotive Systems
+DynCorp
+Dynegy
+E*Trade
+E.W. Scripps
+Earthlink
+Eastman Chemical
+Eastman Kodak
+Eaton
+Echostar Communications
+Ecolab
+Edison International
+EGL
+El Paso
+Electronic Arts
+Electronic Data Systems
+Eli Lilly
+EMC
+Emcor
+Emerson Electric
+Encompass Services
+Energizer Holdings
+Energy East
+Engelhard
+Enron
+Entergy
+Enterprise Products Partners L.P.
+EOG Resources
+Equifax
+Equitable Resources
+Equity Office Properties Trust
+Equity Residential Properties Trust
+Estee Lauder Companies
+Exelon
+Exide Technologies
+Expeditors International of Washington
+Express Scripts
+ExxonMobil
+Fairchild Semiconductor International
+Family Dollar Stores
+Farmland Industries
+Federal Mogul
+Federated Department Stores
+Federal Express
+Felcor Lodging Trust
+Ferro
+Fidelity National Financial
+Fifth Third Bancorp
+First American Financial
+First Data
+First National of Nebraska
+First Tennessee National
+FirstEnergy
+Fiserv
+Fisher Scientific International
+FleetBoston Financial
+Fleetwood Enterprises
+Fleming Companies
+Flowers Foods
+Flowserv
+Fluor
+FMC
+Foamex International
+Foot Locker
+Footstar
+Ford Motor Co
+Forest Laboratories
+Fortune Brands
+Foster Wheeler
+FPL
+Franklin Resources
+Freeport McMoran Copper & Gold
+Frontier Oil
+Furniture Brands International
+Gannett
+Gap
+Gateway
+GATX
+Gemstar-TV Guide International
+GenCorp
+General Cable
+General Dynamics
+General Electric
+General Mills
+General Motors
+Genesis Health Ventures
+Gentek
+Gentiva Health Services
+Genuine Parts
+Genuity
+Genzyme
+Georgia Gulf
+Georgia-Pacific
+Gillette
+Gold Kist
+Golden State Bancorp
+Golden West Financial
+Goldman Sachs
+Goodrich
+Goodyear Tire & Rubber
+Granite Construction
+Graybar Electric
+Great Lakes Chemical
+Great Plains Energy
+GreenPoint Financial
+Greif Bros.
+Grey Global
+Group 1 Automotive
+Guidant
+H&R Block
+H.B. Fuller
+H.J. Heinz
+Halliburton
+Harley-Davidson
+Harman International Industries
+Harrah's Entertainment
+Harris
+Harsco
+Hartford Financial Services
+Hasbro
+Hawaiian Electric Industries
+HCA
+Health Management Associates
+Health Net
+Healthsouth
+Henry Schein
+Hercules
+Herman Miller
+Hershey Foods
+Hewlett-Packard
+Hibernia
+Hillenbrand Industries
+Hilton Hotels
+Hollywood Entertainment
+Home Depot
+Hon Industries
+Honeywell International
+Hormel Foods
+Host Marriott
+Household International
+Hovnanian Enterprises
+Hub
+Hubbell
+Hughes Supply
+Humana
+Huntington Bancshares
+Idacorp
+IDT
+IKON Office Solutions
+Illinois Tool Works
+IMC Global
+Imperial Sugar
+IMS Health
+Ingles Market
+Ingram Micro
+Insight Enterprises
+Integrated Electrical Services
+Intel
+International Paper
+Interpublic Group of Companies
+Interstate Bakeries
+International Business Machines
+International Flavors & Fragrances
+International Multifoods
+Intuit
+IT
+ITT Industries
+Ivax
+J.B. Hunt Transport Services
+J.C. Penny
+J.P. Morgan Chase
+Jabil Circuit
+Jack In The Box
+Jacobs Engineering
+JDS Uniphase
+Jefferson-Pilot
+John Hancock Financial Services
+Johnson & Johnson
+Johnson Controls
+Jones Apparel
+KB Home
+Kellogg
+Kellwood
+Kelly Services
+Kemet
+Kennametal
+Kerr-McGee
+KeyCorp
+KeySpan
+Kimball International
+Kimberly-Clark
+Kindred Healthcare
+KLA-Tencor
+K-Mart
+Knight-Ridder
+Kohl's
+KPMG Consulting
+Kroger
+L-3 Communications Holdings
+Laboratory of America Holdings
+Lam Research
+LandAmerica Financial
+Lands' End
+Landstar System
+La-Z-Boy
+Lear
+Legg Mason
+Leggett & Platt
+Lehman Brothers Holdings
+Lennar
+Lennox International
+Level 3 Communications
+Levi Strauss
+Lexmark International
+Limited
+Lincoln National
+Linens 'n Things
+Lithia Motors
+Liz Claiborne
+Lockheed Martin
+Loews
+Longs Drug Stores
+Louisiana-Pacific
+Lowe's Companies
+LSI Logic
+LTV
+Lubrizol
+Lucent Technologies
+Lyondell Chemical
+M & T Bank
+Magellan Health Services
+Mail-Well
+Mandalay Resort
+Manor Care
+Manpower
+Marathon Oil
+Mariner Health Care
+Markel
+Marriott International
+Marsh & McLennan Companies
+Marsh Supermarkets
+Marshall & Ilsley
+Martin Marietta Materials
+Masco
+Massey Energy
+MasTec
+Mattel
+Maxim Integrated Products
+Maxtor
+Maxxam
+May Department Stores
+Maytag
+MBNA
+McCormick
+McDonald's
+McGraw-Hill Companies
+McKesson
+McLeodUSA
+M.D.C. Holdings
+MDU Resources
+MeadWestvaco
+Medtronic
+Mellon Financial
+Men's Wearhouse
+Merck
+Mercury General
+Merrill Lynch
+Metaldyne
+Metals USA
+MetLife
+Metris Companies
+MGIC Investment
+MGM Mirage
+Michaels Stores
+Micron Technology
+Microsoft
+Milacron
+Millennium Chemicals
+Mirant
+Mohawk Industries
+Molex
+MONY
+Morgan Stanley Dean Witter
+Motorola
+MPS
+Murphy Oil
+Nabors Industries
+Nacco Industries
+Nash Finch
+National City
+National Commerce Financial
+National Fuel Gas
+National Oilwell
+National Rural Utilities Cooperative Finance
+National Semiconductor
+National Service Industries
+Navistar International
+NCR
+Neiman Marcus
+New Jersey Resources
+New York Times
+Newell Rubbermaid
+Newmont Mining
+Nextel Communications
+Nicor
+Nike
+NiSource
+Noble Energy
+Nordstrom
+Norfolk Southern
+Nortek
+North Fork Bancorporation
+Northeast Utilities System
+Northern Trust
+Northrop Grumman
+NorthWestern
+Novellus Systems
+NSTAR
+NTL
+Nucor
+Nvidia
+NVR
+Northwest Airlines
+Occidental Petroleum
+Ocean Energy
+Office Depot
+OfficeMax
+OGE Energy
+Oglethorpe Power
+Ohio Casualty
+Old Republic International
+Olin
+OM
+Omnicare
+Omnicom
+On Semiconductor
+ONEOK
+Oracle
+Oshkosh Truck
+Outback Steakhouse
+Owens & Minor
+Owens Corning
+Owens-Illinois
+Oxford Health Plans
+Paccar
+PacifiCare Health Systems
+Packaging of America
+Pactiv
+Pall
+Pantry
+Park Place Entertainment
+Parker Hannifin
+Pathmark Stores
+Paychex
+Payless Shoesource
+Penn Traffic
+Pennzoil-Quaker State
+Pentair
+Peoples Energy
+PeopleSoft
+Pep Boys Manny Moe & Jack
+Potomac Electric Power
+Pepsi Bottling
+PepsiAmericas
+PepsiCo
+Performance Food
+Perini
+PerkinElmer
+Perot Systems
+Petco Animal Supplies
+Peter Kiewit Sons'
+PETsMART
+Pfizer
+Pacific Gas & Electric
+Pharmacia
+Phar Mor
+Phelps Dodge
+Philip Morris Companies
+Phillips Petroleum Co
+Phillips Van Heusen
+Phoenix Companies
+Pier 1 Imports
+Pilgrim's Pride
+Pinnacle West Capital
+Pioneer-Standard Electronics
+Pitney Bowes
+Pittston Brinks
+Plains All American Pipeline LP
+PNC Financial Services
+PNM Resources
+Polaris Industries
+Polo Ralph Lauren
+PolyOne
+Popular
+Potlatch
+PPG Industries
+PPL
+Praxair
+Precision Castparts
+Premcor
+Pride International
+Primedia
+Principal Financial
+Procter & Gamble
+Pro-Fac Cooperative
+Progress Energy
+Progressive
+Protective Life
+Provident Financial
+Providian Financial
+Prudential Financial
+PSS World Medical
+Public Service Enterprise
+Publix Super Markets
+Puget Energy
+Pulte Homes
+Qualcomm
+Quanta Services
+Quantum
+Quest Diagnostics
+Questar
+Quintiles Transnational
+Qwest Communications Intl
+R.J. Reynolds Tobacco
+R.R. Donnelley & Sons
+Radio Shack
+Raymond James Financial
+Raytheon
+Reader's Digest Association
+Reebok International
+Regions Financial
+Regis
+Reliance Steel & Aluminum
+Reliant Energy
+Rent A Center
+Republic Services
+Revlon
+RGS Energy
+Rite Aid
+Riverwood Holding
+RoadwayCorp
+Robert Half International
+Rock-Tenn Co
+Rockwell Automation
+Rockwell Collins
+Rohm & Haas
+Ross Stores
+RPM
+Ruddick
+Ryder System
+Ryerson Tull
+Ryland
+Sabre Holdings
+Safeco
+Safeguard Scientifics
+Safeway
+Saks
+Sanmina-SCI
+Sara Lee
+SBC Communications
+Scana
+Schering-Plough
+Scholastic
+SCI Systems Onc.
+Science Applications Intl.
+Scientific-Atlanta
+Scotts
+Seaboard
+Sealed Air
+Sears Roebuck
+Sempra Energy
+Sequa
+Service International
+ServiceMaster Co
+Shaw
+Sherwin-Williams
+Shopko Stores
+Siebel Systems
+Sierra Health Services
+Sierra Pacific Resources
+Silgan Holdings
+Silicon Graphics
+Simon Property
+SLM
+Smith International
+Smithfield Foods
+Smurfit-Stone Container
+Snap-On
+Solectron
+Solutia
+Sonic Automotive
+Sonoco Products
+Southern
+Southern Union
+SouthTrust
+Southwest Airlines Co
+Southwest Gas
+Sovereign Bancorp
+Spartan Stores
+Spherion
+Sports Authority
+Sprint
+SPX
+St. Jude Medical
+St. Paul Cos.
+Staff Leasing
+StanCorp Financial
+Standard Pacific
+Stanley Works
+Staples
+Starbucks
+Starwood Hotels & Resorts Worldwide
+State Street
+Stater Bros. Holdings
+Steelcase
+Stein Mart
+Stewart & Stevenson Services
+Stewart Information Services
+Stilwell Financial
+Storage Technology
+Stryker
+Sun Healthcare
+Sun Microsystems
+SunGard Data Systems
+Sunoco
+SunTrust Banks
+Supervalu
+Swift Transportation
+Symbol Technologies
+Synovus Financial
+Sysco
+Systemax
+Target
+Tech Data
+TECO Energy
+Tecumseh Products
+Tektronix
+Teleflex
+Telephone & Data Systems
+Tellabs
+Temple-Inland
+Tenet Healthcare
+Tenneco Automotive
+Teradyne
+Terex
+Tesoro Petroleum
+Texas Industries
+Texas Instruments
+Textron
+Thermo Electron
+Thomas & Betts
+Tiffany
+Timken
+TJX Companies
+TMP Worldwide
+Toll Brothers
+Torchmark
+Toro
+Tower Automotive
+Toys 'R' Us
+Trans World Entertainment
+TransMontaigne
+Transocean
+TravelCenters of America
+Triad Hospitals
+Tribune
+Trigon Healthcare
+Trinity Industries
+Trump Hotels & Casino Resorts
+TruServ
+TRW
+TXU
+Tyson Foods
+U.S. Bancorp
+U.S. Industries
+UAL
+UGI
+Unified Western Grocers
+Union Pacific
+Union Planters
+Unisource Energy
+Unisys
+United Auto
+United Defense Industries
+United Parcel Service
+United Rentals
+United Stationers
+United Technologies
+UnitedHealth
+Unitrin
+Universal
+Universal Forest Products
+Universal Health Services
+Unocal
+Unova
+UnumProvident
+URS
+US Airways
+US Oncology
+USA Interactive
+USFreighways
+USG
+UST
+Valero Energy
+Valspar
+Value City Department Stores
+Varco International
+Vectren
+Veritas Software
+Verizon Communications
+VF
+Viacom
+Viad
+Viasystems
+Vishay Intertechnology
+Visteon
+Volt Information Sciences
+Vulcan Materials
+W.R. Berkley
+W.R. Grace
+W.W. Grainger
+Wachovia
+Wakenhut
+Walgreen Co
+Wallace Computer Services
+Wal-Mart Stores
+Walt Disney Co
+Walter Industries
+Washington Mutual
+Washington Post
+Waste Management
+Watsco
+Weatherford International
+Weis Markets
+Wellpoint Health Networks
+Wells Fargo
+Wendy's International
+Werner Enterprises
+WESCO International
+Western Digital
+Western Gas Resources
+WestPoint Stevens
+Weyerhauser
+WGL Holdings
+Whirlpool
+Whole Foods Market
+Willamette Industries
+Williams Companies
+Williams Sonoma
+Winn Dixie Stores
+Wisconsin Energy
+Wm Wrigley Jr
+World Fuel Services
+WorldCom
+Worthington Industries
+WPS Resources
+Wyeth
+Wyndham International
+Xcel Energy
+Xerox
+Xilinx
+XO Communications
+Yellow
+York International
+Yum Brands
+Zale
+Zions Bancorporation
