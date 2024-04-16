@@ -40,12 +40,18 @@ stoi, itos = meta["stoi"], meta["itos"]
 encode = lambda s: [stoi[c] for c in s]
 decode = lambda l: "".join([itos[i] for i in l])
 
+sample_cnt = 0
 with torch.no_grad():
-    for k in range(num_samples):
+    while True:
         x = torch.full((1, 1), stoi["!"], dtype=torch.long)
         y = model.generate(x, max_new_tokens)
         raw = decode(y[0].tolist())
         parts = raw.split("!")
-        i = torch.randint(low=1, high=len(parts) - 2, size=(1, 1), dtype=torch.long).item()
-        print(parts[i])
-        print("---------------")
+        for i in range(1, len(parts) - 1):
+            print("---------------")
+            print(parts[i])
+            sample_cnt += 1
+            if sample_cnt >= num_samples:
+                break
+        if sample_cnt >= num_samples:
+            break
