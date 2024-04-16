@@ -1799,3 +1799,1235 @@ York International
 Yum Brands
 Zale
 Zions Bancorporation
+360Networks
+724 Solutions
+A B Electrolux
+A B SKF
+A B Volvo
+A R T International
+A.O. Tatneft
+A/S Steamship Company Torm
+ABB
+Abbey National
+Aber Diamond
+Abitibi Consolidated
+ABN Amro Bank
+ABN Amro Holding
+Acambis
+Acetex
+Acrex Ventures
+ACS-Tech 80
+ADB Systems International
+Adecco
+Adrian Resources
+Advanced Semiconductor Engineering
+Advantest
+AEGON
+AES Drax Energy
+AES Drax Holdings
+AES Gener
+Aeterna Laboratories
+Agnico-Eagle Mines
+Agrium
+Ainsworth Lumber
+Air Canada
+Akzo Nobel
+Aladdin Knowledge Systems
+Alamos Gold
+Alberta Star Mining
+Alcan
+Alcatel
+Alcon
+Alestra
+Alfa Laval Special Finance AB
+Algoma Steel
+Alliance Atlantis Communications
+Allianz
+Allied Domecq
+Allied Irish Banks
+Allstream
+Allura International
+Almaden Minerals
+Alpha Gold
+Alstom
+Altair Nanotechnologies
+Altana
+Altarex
+Alto Palermo
+Alumina
+Aluminum Corp of China
+Alvarion
+Amarc Resources
+Amarin Corp
+Amcor
+Amdocs
+America Mineral Fields
+America Movil
+American Israeli Paper Mills
+Amersham
+Amvescap
+Anchor Lamina
+Angiotech Pharmaceuticals
+Anglo Swiss Resources
+Anglogold
+Anooraq Resources
+Ansell
+Antenna TV
+Anthony Clark International Insurance Brokers
+API Electronics Group
+Apiva Ventures
+APT Satellite Holdings
+Aracruz Celulose
+ARC Energy Trust
+Arcadis
+Archangel Diamond
+Ardent Mines
+Arel Communications & Software
+Argosy Minerals
+Arm Holdings
+Art Advanced Research Technologies
+ASAT Holdings
+ASE Test
+Ashanti Goldfields
+Asia Pacific Resources
+Asia Pacific Wire & Cable
+Asia Satellite Telecommunications Holdings
+ASM International
+ASML Holding
+Aspen Group Resources
+Aspen Insurance Holdings
+AssistGlobal Technologies
+AstraZeneca
+Astris Energi
+ATI Technologies
+Atlas Pacific
+ATNA Resources
+Attunity
+AU Optronics
+Audiocodes
+Aurizon Mines
+Aurora Metals BVI
+Australia & New Zealand Banking Group
+Autonomy Corp
+Avecia Group
+Aventis
+AXA
+Axcan Pharma
+Azteca Holdings
+B & H Ocean Carriers
+Bakbone Software
+Balaton Power
+Ballard Power Systems
+Baltimore Technologies
+Banco Bilbao Vizcaya Argentaria
+Banco Bilboa Vizcaya Argentaria
+Banco Bradesco
+Banco de Chile
+Banco Espirito Santo
+Banco Itau
+Banco Santander
+Banco Santander Central Hispano
+BanColombia
+Bank of Bermuda
+Bank of Montreal
+Bank of Nova Scotia
+Baran Group
+Barbeques Galore
+Barclays Bank
+Barclays
+Barrick Gold
+BASF
+Bayer
+Baytex Energy
+BBVA Banco Frances
+BCE
+BE Semiconductor Industries
+Belair Energy
+Bell Canada
+Bell Canada International
+Bema Gold
+Benetton Group
+Benguet
+Bennett Environmental
+Berkley Resources
+BG Group
+BHP Billiton
+BHP Billiton
+Biacore International AB
+Biomira
+Bioprogress
+Biora AB
+Biotech Holdings
+Biovail Corporation International
+Birch Mountain Resources
+Blue Square
+BluePhoenix Solutions
+Bluewater Finance
+Boardwalk Equities
+BOC Group
+Bonso Electronics International
+Bontan
+Bookham Technology
+BOS Better Online Solutions
+BP
+Bradner Ventures
+Brascan
+Brasil Telecom Participacoes
+Brasil Telecom
+Braskem
+Breakwater Resources
+Bresagen
+Brilliance China Automotive Holdings
+British Airways
+British Energy
+British Sky Broadcasting Group
+Brockton Capital
+Brookfield Properties
+BSN Glasspack SAS
+BT Group
+Buffalo Gold
+Buhrmann
+Bunge
+Bunzl
+BVR Systems
+BVR Technologies
+Byron Resources
+Cable and Wireless
+Cabletel Communications
+Cableuropa
+Cadbury Schweppes
+CAE
+Calais Resources
+CalciTech
+Caledonia Mining
+California Exploration
+Call Net Enterprises
+Cambior
+Cambridge Antibody Technology Group
+Cameco
+Camflo Resources
+Campbell Resources
+Camtek
+Canada Southern Petroleum
+Canadente Resource
+Canadian Empire Exploration
+Canadian Imperial Bank of Commerce
+Canadian National Railway
+Canadian Natural Resources
+Canadian Pacific Railway
+Canadian Superior Energy
+Canalaska Ventures
+Canarc Resources
+Canon
+Canplats Resources
+CanWest Global Communications
+Canwest Media
+Capital Environmental Resource
+Cardiome Pharma
+Carlisle Holdings
+Carlton Communications
+Carmanah Technologies
+Carmel Container Systems
+Cascades Boxboard Group
+Cascades
+CDG Investments
+CE Franklin
+Cedara Software
+Celanese AG
+Celestica
+Celltech Group
+Celulosa Arauco y Constitucion
+Cemex
+Central Fund of Canada
+Central Minera
+Ceragon Networks
+Cez
+CFM
+CGI Group
+Chai-Na-Ta
+Chartered Semiconductor Manufacturing
+Chartwell Technology
+CHC Helicopter
+Check Point Software Technologies
+ChileSat Corp
+China Eastern Airlines
+China Enterprises
+China Life Insurance
+China Mobile
+China Petroleum & Chemical
+China Southern Airlines
+China Telecom
+China Unicom
+China Yuchai International
+Chinadotcom
+Chipmos Technologies
+Chunghwa Telecom
+Ciba Speciality Chemicals Holding
+Cimatron
+City Telecom
+CityView Corp
+Claude Resources
+Claxson Interactive Group
+Clearly Canadian Beverage
+Clearwave
+Clondalkin Industries
+CLP Holdings
+CLP Power Hong Kong
+CNH Global
+CNOOC
+Coca-Cola Embonor
+Coca-Cola Femsa
+Coca-Cola Hellenic Bottling
+Cognos
+Coles Myer
+Colt Telecom Group
+Commander Resources
+Commonwealth Bank of Australia
+Commtouch Software
+Compagnie Generale de Geophysique
+Companhia Brasileira de Distribuicao
+Companhia de Bedidas das Americas
+Companhia de Saneamento Basico de Sao Paulo
+Companhia Energetica de Minas Gerais
+Companhia Parananse de Energia
+Companhia Siderurgica Nacional
+Companhia Vale de Rio Doce
+Compania Anonima Nacional Telefonos de Venezuela
+Compania Cervecerias Unidas
+Compania de Minas Buenaventura
+Compania de Telecomunicaciones de Chile
+Compania Internacional de Telecomunicaciones
+Compton Petroleum
+Compugen
+Comunicacion Celular
+Concordia Bus AB
+Condor Gold
+Consolidated Envirowaste Industries
+Consolidated Mercantile
+Consolidated Trillion Resources
+Consolidated Water
+Continental Energy Corp
+Continental Minerals
+Controladora Comercial Mexicana
+Converium Holding AG
+Cookson Group
+Coolbrands International
+Copamex Industries
+Coral Gold
+Corimon C.A.
+Corporacion Durango
+Corus Entertainment
+Corus Group
+Cott
+Counsel
+CP Ships
+Crayfish
+Cream Minerals
+Creative Technology
+Creator Capital
+Credicorp
+Credit Suisse Group
+Creo
+Cresud Sacif
+Crew Development
+CRH
+Cristalerias de Chile
+Crosswave Communications
+Crow Technologies 1977
+Crucell
+Cryopack Industries
+Cryptologic
+Crystal Graphite
+Crystallex International
+CSR
+Ctrip.com International
+Cumberland Resources
+Current Technology
+Cusac Gold Mines
+Cypacific Trading
+DaimlerChrysler AG
+Dassault Systems
+Data Fortress Systems Group
+Datamirror
+Datawave Systems
+Daugherty Resources
+De Rigo
+Decoma International
+Dectron Internationale
+Delta Galil Industries
+Derek Oil and Gas
+Desc
+Descartes Systems Group
+Desert Sun Mining
+Deswell Industries
+Deutsche Bank
+Deutsche Telekom AG
+DF China Technology
+Diageo
+Dialog Semiconductor
+Digital Rooster.com
+Distribucion y Servicio D&S
+Diversinet
+Doman Industries
+Domtar
+Donner Minerals
+Dorel Industries
+Dr. Reddy's Laboratories
+Draxis Health
+DRC Resources
+DSG International
+DTA Holding
+Ducati Motor Holdings
+Dundee Bancorp
+Dunlop Standard Aerospace Holdings
+Durban Roodepoort Deep
+Dynamic Oil & Gas
+DynaMotive Energy Systems
+E.ON AG
+Ebookers.com
+ECI Telecommunications
+Ectel
+EDAP TMS
+E-digital
+EDP
+Eidos
+Eiger Technology
+Eksportfinans A/S
+El Nino Ventures
+Elan Corp
+Elbit Medical Imaging
+Elbit Systems
+Elbit Vision Systems
+Eldorado Gold
+Electrochemical Industries 1952
+Elephant & Castle Group
+Elron Electronic Industries
+Elscint
+Eltek
+Embotelladora Andina
+Embraer-Empresa Brasileira de Aeronautica
+Embratel Participacoes
+Empresa Nacional de Electricidad
+Empresas ICA Sociedad Controladora
+Enbridge
+EnCana
+Endesa
+Enel
+EnerNorth Industries
+Enerplus Resources Fund
+Enersis
+Engel General Developers
+ENI
+Enodis
+Enterra Energy Trust
+Entourage Mining
+Envoy Communications Group
+EPCOS AG
+Equant
+e-Sim
+Espirito Santo Centrais Eletricas
+Espirito Santo Financial Group
+Etablissements Delhaize Freres & Cie
+Euro Disney S.C.A.
+Euro-Tech Holdings
+Eurotel Bratislava
+EuroTrust A/S
+Eurozinc Mining
+Excel Maritime Carriers
+Exfo Electro-Optical Engineering
+Extendicare
+Fage Dairy Industry
+Fairfax Financial Holdings
+Fairmont Hotels & Resorts
+Falconbridge
+Fiat
+Filtronic
+Fimep
+Findexa I AS
+Firelight
+First Point Minerals
+FirstService
+Flamel Technologies
+Fletcher Challenge Forests
+Flotek Industries
+FNX Mining
+Fomento Economico Mexicano
+Forbes Medi-Tech
+Fording Canadian Coal Trust
+Formula Systems
+Forum National Investments
+Four Seasons Hotels
+France Telecom
+Freegold Ventures
+Fresenius Medical Care AG
+Fresh Del Monte Produce
+Frisco Bay Industries
+Frontline
+Fundtech
+Futuremedia
+G. Willi-Food International
+Gala Group Holdings
+Galen Holdings
+Gallaher Group
+Gammon Lakes Resources
+Geac Computer Corp
+Gee-Ten Ventures
+Gemplus International
+Genesys
+Gensci Regeneration Sciences
+Genterra
+Gentry Resources
+Gerdau Ameristeel
+Gerdau
+Getty Copper
+Gigamedia
+Gilat Satellite Networks
+Gildan Activeware
+Given Imaging
+Glamis Gold
+GlaxoSmithKline
+Global Precision Medical
+Global Sources
+Global-Tech Appliances
+Globe Telecom
+Globetech Ventures
+Golar LNG
+Gold City Industries
+Gold Fields
+Gold Reserve
+Goldbelt Resources
+Goldcorp
+Golden Star Resources
+Goran Capital
+Governor and Company of the Bank of Ireland
+Great Basin Gold
+Great Lakes Power
+Grohe Holdings GmbH
+Groupe Danone
+Gruma
+Grupo Aeroportuario del Sureste
+Grupo Casa Saba
+Grupo Elektra
+Grupo Financiero Galicia
+Grupo Imsa
+Grupo Industrial Maseca
+Grupo Iusacell Celular
+Grupo Iusacell
+Grupo Minero Mexicano
+Grupo Radio Centro
+Grupo Simec
+Grupo Televisa
+Grupo TMM
+Grupo Transportacion Ferroviaria Mexicana
+GSI Lumonics
+GSI Securitization
+Guangshen Railway
+Guardian Biotechnologies
+Gucci Group
+Haemacure
+Halo Resources
+Hanaro Telecom
+Hanson
+Harmony Gold Mining
+Havas
+Hawker Resources
+HDFC Bank
+Head
+Healthcare Technologies
+Hellenic Telecommunications Organization
+Hemosol
+Hibernia Foods
+Highway Holdings
+Hilton Petroleum
+Hitachi
+Hollinger
+Honda Motor
+HQI Translec Chile
+HSBC Holdings
+Huaneng Power International
+Hub International
+Hummingbird
+Husky Energy
+Hydrogenics
+I.I.S. Intelligent Information Systems
+Iamgold Corp
+I-Cable Communications
+ICICI Bank
+ICON
+ICOS Vision Systems
+ICTS International
+ID Biomedical
+IFCO Systems
+Ilog
+IMA Exploration
+Imax
+IMI International Medical Innovations
+Imperial Chemical Industries
+Imperial Ginseng Products
+Imperial Oil
+Imperial Tobacco Group
+Inco
+Indo-Pacific Energy
+Industrial Development Bank of Israel
+Industrias Bachoco
+Ineos Group Holdings
+Ineos Group
+Inficon Holding AG
+Infineon Technologies AG
+Infosys Technologies
+Infovista
+Infowave Software
+ING Groep
+Innova
+Instrumentarium
+Instrumentation Laboratory
+Intelsat
+Intercontinental Hotels Group
+Internacional de Ceramica
+International Absorbents
+International Barrier Technology
+International Financial Group
+International Gemini Technology
+International Hi Tech Industries
+International Power
+International Thunderbird Gaming
+International Tower Hill Mines
+International Uranium
+International Utility Structures
+Internet Gold
+Internet Initiative Japan
+Intershop Communications Aktiengesellshaft
+Intertape Polymer Group
+Intier Automotive
+Intrawest
+Iona Technologies
+Ipsco
+IRSA Inversiones y Representacions
+Ispat International
+Israel Bank of Agriculture
+Ito-Yokado
+ITSA
+Ivanhoe Energy
+Ivanhoe Mines
+IWI Holding
+iXOS Software
+J Pacific Gold
+Jacada
+James Hardie Industries
+Jewett Cameron Trading
+Jilin Chemical Industrial
+Jinpan International
+Jupiters
+Kappa Beheer
+Kerzner International
+Kingsway Financial Services
+Kinross Gold
+Kirkland Lake Gold
+KLM Royal Dutch Airlines
+Knightsbridge Tankers
+Komatsu
+Konami
+Koninklijke KPN
+Kookmin Bank
+Koor Industries
+Korea Electric Power
+Korea Thrunet
+Kowloon-Canton Railway
+KT
+Kubota
+Kyocera
+Lafarge
+Laidlaw
+Lanoptics
+Las Vegas from Home.com Entertainment
+Lastminute.com
+Latin American Export Bank
+Leading Brands
+Legrand
+Leica Geosystems Finance
+Leitch Technology
+Lihir Gold
+Linea Aerea Nacional Chile
+Lingo Media
+Linux Gold
+Lion Bioscience
+Lions Gate Entertainment
+Liquidation World
+LJ International
+Lloyds TSB Group
+LML Payment Systems
+Localiza Rent-a-Car
+Logitech International
+London Electricity Group
+Lorus Therapeutics
+Lucite International Group Holdings
+Lucky 1 Enterprises
+Luke Energy
+Lumina Copper
+Lund Gold
+Luscar Coal
+Luxottica Group
+LVMH Moet-Hennessy Louis Vuitton
+Macronix International
+Mad Catz Interactive
+Madeco
+Madison Enterprises
+Magal Security Systems
+Magic Software Enterprises
+Magna International
+Magyar Tavkozlesi RT.
+Mahanagar Telephone Nigam
+Makita
+Mamma.com
+Manhattan Minerals
+Manulife Financial
+Marconi Corp
+Marconi
+Marnetics Broadband Technologies
+Marsulex
+Masisa
+Masonite International
+Matav Cable Systems Media
+Matsushita Electric Industrial
+Maxcom Telecomunicaciones
+Mayne Group
+MC Shipping
+MDC
+MDP Acquisitions
+MDS
+MDSI Mobile Data Solutions
+Med Emerg International
+Medicure
+Mentergy
+MEPC
+Mer Telemanagement Solutions
+Merant
+Mercury Partners
+Meridian
+Meridian Gold
+Messer Griesheim Holding AG
+Metal Storm
+Metalink
+Metallica Resources
+Methanex
+Metro International
+MetroGas
+Metso Oy
+Mexicana de Cobre
+MFC Bancorp
+MI Developments
+Microcell Telecommunications
+Micrologix Biotech
+Micromem Technologies
+Millar Western Forest Products
+Millea Holdings
+Millicom International Cellular
+Minco Mining and Metals
+Mind
+Minefinders
+Mirae
+Miramar Mining
+Miranda Gold
+Mirtronics
+Mitchells & Butlers
+Mitel Networks
+Mitsubishi Tokyo Financial Group
+Mitsui & Company
+mmO2
+Mobifon Holdings
+Mobile Telesystems
+Modern Times Group
+Moore Wallace
+Mountain Province Diamonds
+Moving Bytes
+M-Systems Flash Disk Pioneers
+MTR
+Multicanal
+Mycobiotech
+Nam Tai Electronics
+Naspers
+National Australia Bank
+National Bank of Greece
+National Construction Group
+National Grid Transco
+National Westminster Bank
+Natuzzi
+NDS Group
+NDT Ventures
+NEC
+Nera ASA
+Net Force Systems
+Net Servicos de Comunicacao
+Netco Energy
+Netease.com
+Netia Holdings
+Nettron.com
+Neurochem
+Nevada Geothermal Power
+New Skies Satellites
+Newmont Yandal Operations
+News Corporation
+Nexen
+Nexus Telocation Systems
+Nice Systems
+Nicholas Financial
+Nidec
+Nippon Telegraph and Telephone
+Nissin
+Nokia
+Nomura Holdings
+Norampac
+Noranda
+Nord Pacific
+Nordic American Tanker Shipping
+Norsat International
+Norsk Hydro A/S
+Norske Skog Canada
+Nortel Inversora
+Nortel Networks
+Nortel Networks
+North American Palladium
+Northern Dynasty Minerals
+Northern Offshore ASA
+Northern Rock
+Northgate Exploration
+Northstar Aerospace
+Northworks
+Nova Chemicals
+Nova Gas Transmission
+Nova Measuring Instruments
+NovaGold Resources
+Novamerican Steel
+Novartis AG
+NovAtel
+Novel Denim Holdings
+Novogen
+Novo-Nordisk A/S
+NTT Docomo
+Nur Macroprinters
+Nymox Pharmaceutical
+O2micro International
+Occidente y Caribe Celular
+Oce
+Ocean Rig ASA
+Offshore Systems International
+Olicom A/S
+Omninet International
+Oncolytics Biotech
+Ono Finance
+On-Track Innovations
+Open Joint Stock Company of Long Distance
+Open Text
+OpenTV
+Oppenheimer Holdings
+Optibase
+Optimal Robotics
+Orange
+Orbital Engine Corp
+Orbotech
+Orckit Communications
+Orient-Express Hotels
+Orix
+Oromin Explorations
+Oxford Software Developers
+Oz Investments
+P.T. Indonesian Satellite
+P.T. Telekomunikasi Indonesia
+Pacific Harbor Capital
+Pacific Internet
+Pacific North West Capital
+Pacific Rim Mining
+Pan American Silver
+Paramount Energy Trust
+Paramount Resources
+Partner Communications
+PartnerRe
+PCCW
+PDVSA Finance
+Peace Arch Entertainment Group
+Peaksoft Multinet
+Pearson
+Pechiney
+Pengrowth Energy Trust
+Penn Biotech
+Perdigao
+Peruvian Gold
+Petrobras Energia Participaciones
+Petro-Canada
+PetroChina
+Petrofund Energy Trust
+PetroKazakhstan
+Petroleo Brasileiro S.A
+Petroleos de Venezuela
+Petroleos Mexicanos
+Petroleum Geo-Services A/S
+Petsec Energy
+Pfeiffer Vacuum Technology AG
+Philippine Long Distance Telephone
+Philips Electronics
+Photochannel Networks
+Pine Valley Mining
+Pioneer
+Pivotal
+Placer Dome
+Plaintree Systems
+Platinum Group Metals
+Playstar Wyoming Holding
+PLC Systems
+Polska Telefonia Cyfrowa Sp Z o o.
+Polyair Inter Pack
+Polymet Mining
+Portrush Petroleum
+Portugal Telecom
+POSCO
+Potash Corp. of Saskatchewan
+Prana Biotechnology
+Precision Drilling
+Preem Holdings AB
+Premier Farnell
+Premier International Foods
+PrimaCom AG
+Primewest Energy Trust
+Princeton Media Group
+Progen Industries
+Protherics
+Provalis
+Provida Pension Fund Administrator
+Provident Energy Trust
+Prudential
+PSi Technologies Holdings
+Publicis Groupe
+Pyng Technologies
+QI Systems
+Qiagen
+Qiao Xing Universal Telephone
+QLT
+QSound Labs
+Quartz Mountain Gold
+Quebecor Media
+Quebecor World
+Queenstake Resources
+Quest Capital
+Quilmes Industrial Quinsa
+Quinenco
+Rada Electronic Industries
+Radcom
+Radica Games
+Radius Explorations
+Radware
+Randgold & Exploration
+Randgold Resources
+Rank Group
+RCS Investimenti
+Rediff.com India
+Reed Elsevier
+Reed Elsevier
+Reg Technologies
+Regus
+Repsol YPF
+Research in Motion
+Resin Systems
+Resource Finance & Investments
+Retalix
+Reuters Group
+Revenue Properties
+Rhodia
+Richmont Mines
+Ricoh Company
+Rimfire Minerals
+Rinker Group
+Rio Narcea Gold Mines
+Rio Tinto
+Rio Tinto
+RIT Technologies
+Ritchie Bros. Auctioneers
+RoboGroup T.E.K.
+Robomatix Technologies
+Rockwell Ventures
+Rogers Cable
+Rogers Communications
+Rogers Wireless Communications
+Rogers Wireless
+Rosedale Decorative Products
+Royal & Sun Alliance Insurance Group
+Royal Ahold Ltd.
+Royal Bank of Canada
+Royal Bank of Scotland Group
+Royal Caribbean Cruises
+Royal Dutch Petroleum
+Royal Group Technologies
+Royal Olympic Cruise Lines
+Royal Standard Minerals
+Rubicon Minerals
+Russel Metals
+Ryanair Holdings
+Sadia
+SAES Getters
+Samex Mining
+San Telmo Energy
+Sand Technology
+Sanitec International
+Sanofi-Synthelabo
+Sanpaolo-IMI
+SAP
+Sapiens International
+Sappi
+Sasol
+Satelites Mexicanos
+Satyam Computer Services
+Savia
+SBS Broadcasting
+Schering
+Schroder Ventures International Investment Trust
+Scitex
+SCOR
+Scottish Power
+Sea Containers
+Seat Pagine Gialle
+Secureview Systems
+Sense Technologies
+Serono
+Seven Seas Petroleum
+SGL Carbon
+Sharpe Resources
+Shaw Communications
+Shell Canada
+Shell Transport and Trading
+Shep Technologies
+Shinhan Financial Group
+Shire Pharmaceuticals Group
+Siemens
+Sierra Wireless
+SIFY
+Signet Group
+Silicom
+Siliconware Precision Industries
+Silver Standard Resources
+Silverado Gold Mines
+Silverline Technologies
+Sinopec Beijing Yanhua Petrochemical
+Sinopec Shanghai Petrochemical
+SK Telecom
+Sky Brasil Servicos Ltda.
+Skyepharma
+SmarTire Systems
+Smedvig ASA
+Smith & Nephew
+Sodexho Alliance
+Softcare EC.com
+Soil Biogenics
+Sola Resource
+Sony
+Sopheon
+Southwestern Resources
+Sovereign Chief Ventures
+Spectrum Signal Processing
+Spirent
+Sportech
+Spur Ventures
+SQM
+SR Telecom
+ST Assembly Test Services
+Star Choice Communications
+Star Resources
+Starfield Resources
+Statoil ASA
+Stelmar Shipping
+Stena AB
+STET Hellas Telecommunications
+STMicroelectronics
+Stolt Nielsen
+Stolt Offshore
+Stora Enso OYJ
+Strateco Resources
+Stream Communications Network
+Stressgen Biotechnologies
+Suez
+Sun Life Financial Services of Canada
+Sun Media
+Suncor Energy
+Sunday Communications
+Sungold Entertainment
+SunOpta
+Supermercados Unimarc
+Super-Sol
+Swedish Export Credit
+Swedish Match AB
+Swisscom
+Syngenta AG
+Tag Oil
+Taiwan Semiconductor Manufacturing
+Talisman Energy
+Taro Pharmaceutical Industries
+Taseko Mines
+TAT Technologies
+TDC A/S
+TDK
+TDL Infomedia Group
+Technip
+Teck Cominco
+Tecnomatix Technologies
+Teekay Shipping
+Tefron
+Tele Celular Sul Participacoes
+Tele Centro Oeste Celular Participacoes
+Tele Leste Celular Participacoes
+Tele Nordeste Celular Participacoes
+Tele Norte Celular Participacoes
+Tele Norte Leste Participacoes
+Tele Sudeste Celular Participacoes
+Tele2 AB
+Telebras
+Telecom Argentina STET France Telecom
+Telecom Corp of New Zealand
+Telecom Italia
+Telecomunicaios de Sao Paulo
+Telefonaktiebolaget L M Ericsson
+Telefonica de Argentina
+Telefonica del Peru
+Telefonica Holding of Argentina
+Telefonica Moviles
+Telefonica
+Telefonos de Mexico
+Telekom Austria
+Telemig Celular Participacoes
+Telenor ASA
+Telesis North Communications
+Telesp Celular Participacoes
+Telesystem International Wireless
+TeleWest Communications
+Teliasonera AB
+Telkom SA
+Telstra Corp
+Telus
+Tembec Industries
+Tenaris
+Terra Networks
+Terra Nova Gold
+Tesco
+Tesma International
+Teva Pharmaceutical Industries
+Tevecap
+TFM
+Thinkpath
+Thomson
+Thomson
+Thrilltime Entertainment International
+Tioga Technologies
+Titan Trading Analytics
+TLC Vision
+TM Group Holdings
+Toby Ventures
+Tomkins
+Top Image Systems
+Toronto-Dominion Bank
+Total
+Tower Semiconductor
+Toyota Motor
+TPG
+Tracer Petroleum
+Trade Wind Communications
+TradeRadius Online
+Tramford International
+TransAlta
+TransCanada
+Transco
+Transgene
+Transglobe Energy
+Trans-Orient Petroleum
+Transportadora de Gas del Sur
+Trenche Electric
+Trend Micro
+Tri Lateral Venture
+Triant Technologies
+Triband Resource
+Tricom
+Trinity Biotech
+Trintech Group
+Triple P
+Trivalence Mining
+Tsakos Energy Navigation
+TTI Team Telecom International
+Tumi Resources
+Turbodyne Technologies
+Turkcell Iletisim Hizmetleri AS
+TV Azteca
+Twin Mining
+UBS AG
+Ultra Petroleum
+Ultrapar Participacoes
+Ultrapetrol
+Unibanco Holdings
+Unibanco-Uniao de Bancos Brasileiros
+Unilever
+Unilever
+United Biscuits Finance
+United Business Media
+United Microelectronics
+United Utilities
+Universal Domains
+UPM-Kymmene OYJ
+UTi Worldwide
+Valentia Telecommunications
+Van der Moolen Holding
+Vancan Capital
+Vannessa Ventures
+Vasogen
+Veolia Environnement
+Verb Exchange
+Vernalis Group
+Vernalis
+VI Group
+Videsh Sanchar Nigam
+Viking Keywest
+Vimpel Communications
+Vina Concha y Toro
+Virgin Express Holdings
+Virginia Gold Mines
+Virotec International
+Viryanet
+Vision Global Solutions
+Vista Gold
+Vitran
+Vitro
+Vivendi Universal
+Vocaltec Communications
+Vodafone Group
+Votorantim Celulose e Papel
+W.P. Stewart
+Wacoal
+Watch Resources
+Waterford Wedgwood
+Wavecom
+Webzen
+Wescast Industries
+Westaim
+Western Oil Sands
+Western Silver
+Westpac Banking
+Wharf Holdings
+Wheaton River Minerals
+Whittier Energy
+WideCom Group
+Willis Group
+Wimm-Bill-Dann Foods
+Wipro
+WMC Resources
+Wolseley
+Woori Finance Holdings
+Workstream
+World Gaming
+World Heart
+World Ventures
+WorldWide
+WPP Group
+Xcelera.com
+Xenova Group
+Yamana Gold
+Yantai Dahua Holdings
+Yanzhou Coal Mining
+Yellow Pages
+YPF
+Zarlink Semiconductor
+Zi
+Zindart

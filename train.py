@@ -9,20 +9,20 @@ from model import ModelConfig, NameModel
 # I/O
 out_dir = "out"
 eval_iters = 200
-log_interval = 200
+log_interval = 500
 # data
 dataset = "names"
 batch_size = 32
-block_size = 12  # context length
+block_size = 16  # context length
 # model
-n_layer = 4
+n_layer = 5
 n_head = 4
 n_embd = 48
 dropout = 0.0  # for pretraining 0 is good, for finetuning try 0.1+
 bias = False  # do we use bias inside LayerNorm and Linear layers?
 # adamw optimizer
 learning_rate = 1e-4  # max learning rate
-max_iters = 4000
+max_iters = 6000
 # system
 device = (
     "cpu"  # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1' etc., or try 'mps' on macbooks
