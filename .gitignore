@@ -7,3 +7,5 @@ data/val.bin
 # python
 __pycache__
 
+# wandb
+wandb

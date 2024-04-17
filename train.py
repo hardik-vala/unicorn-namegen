@@ -10,19 +10,24 @@ from model import ModelConfig, NameModel
 out_dir = "out"
 eval_iters = 200
 log_interval = 500
+# wandb logging
+wandb_log = True
+wandb_project = "namegen"
+wandb_run_name = "416"
 # data
 dataset = "names"
-batch_size = 32
-block_size = 16  # context length
+batch_size = 40
+block_size = 20  # context length
 # model
 n_layer = 5
-n_head = 4
-n_embd = 48
+n_head = 5
+n_embd = 50
 dropout = 0.0  # for pretraining 0 is good, for finetuning try 0.1+
 bias = False  # do we use bias inside LayerNorm and Linear layers?
+write_checkpoint = True
 # adamw optimizer
 learning_rate = 1e-4  # max learning rate
-max_iters = 6000
+max_iters = 8000
 # system
 device = (
     "cpu"  # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1' etc., or try 'mps' on macbooks
@@ -106,6 +111,13 @@ def estimate_loss(model):
     return out
 
 
+# logging
+if wandb_log:
+    import wandb
+
+    wandb.init(project=wandb_project, name=wandb_run_name, config=config)
+
+
 # training loop
 for step in range(max_iters):
     if step % log_interval == 0:
@@ -113,6 +125,10 @@ for step in range(max_iters):
         print(
             f"step {step}: train loss {losses['train']:.4f}, val loss {losses['val']:.4f}"
         )
+        if wandb_log:
+            wandb.log(
+                {"step": step, "train/loss": losses["train"], "val/loss": losses["val"]}
+            )
     xb, yb = get_batch("train")
     logits, loss = model(xb, yb)
     optimizer.zero_grad(set_to_none=True)
@@ -120,13 +136,14 @@ for step in range(max_iters):
     optimizer.step()
 
 # write checkpoint
-checkpoint = {
-    "model": model.state_dict(),
-    "optimizer": optimizer.state_dict(),
-    "model_args": model_args,
-    "iter_num": step,
-    "final_val_loss": losses["val"],
-    "config": config,
-}
-print(f"saving checkpoint to {out_dir}")
-torch.save(checkpoint, os.path.join(out_dir, "ckpt.pt"))
+if write_checkpoint:
+    checkpoint = {
+        "model": model.state_dict(),
+        "optimizer": optimizer.state_dict(),
+        "model_args": model_args,
+        "iter_num": step,
+        "final_val_loss": losses["val"],
+        "config": config,
+    }
+    print(f"saving checkpoint to {out_dir}")
+    torch.save(checkpoint, os.path.join(out_dir, "ckpt.pt"))
