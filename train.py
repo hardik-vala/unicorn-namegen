@@ -1,6 +1,7 @@
 import numpy as np
 import os
 import pickle
+import time
 import torch
 
 from model import ModelConfig, NameModel
@@ -13,7 +14,7 @@ log_interval = 500
 # wandb logging
 wandb_log = True
 wandb_project = "namegen"
-wandb_run_name = "416"
+wandb_run_name = "418-cpu"
 # data
 dataset = "names"
 batch_size = 40
@@ -27,7 +28,7 @@ bias = False  # do we use bias inside LayerNorm and Linear layers?
 write_checkpoint = True
 # adamw optimizer
 learning_rate = 1e-4  # max learning rate
-max_iters = 8000
+max_iters = 10000
 # system
 device = (
     "cpu"  # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1' etc., or try 'mps' on macbooks
@@ -119,6 +120,7 @@ if wandb_log:
 
 
 # training loop
+t0 = time.time()
 for step in range(max_iters):
     if step % log_interval == 0:
         losses = estimate_loss(model)
@@ -134,6 +136,11 @@ for step in range(max_iters):
     optimizer.zero_grad(set_to_none=True)
     loss.backward()
     optimizer.step()
+
+# timing
+t1 = time.time()
+dt = t1 - t0
+print(f"time: {dt:.2f}s")
 
 # write checkpoint
 if write_checkpoint:
