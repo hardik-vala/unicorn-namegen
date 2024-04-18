@@ -2,13 +2,23 @@ import os
 import pickle
 import numpy as np
 
-SPLIT_FRAC = 0.9
+# ------------------------------------------------------------------------------
+with_sec_edgar_names = True
+split_frac = 0.9
+# ------------------------------------------------------------------------------
 
 # read the dataset
-input_file_path = os.path.join(os.path.dirname(__file__), "names.txt")
-with open(input_file_path, "r") as f:
-    data = f.read()
+def read_names(file_path):
+    with open(file_path, "r") as f:
+        return f.read()
+
+names_file_path = os.path.join(os.path.dirname(__file__), "names.txt")
+data = read_names(names_file_path)
 data = data.replace("\n", "!")
+if with_sec_edgar_names:
+    sec_edgar_names_file_path = os.path.join(os.path.dirname(__file__), "sec__edgar_company_names.txt")
+    sec_edgar_names = read_names(sec_edgar_names_file_path)
+    data = f"{data}!{sec_edgar_names.replace("\n", "!")}"
 print(f"length of dataset in characters: {len(data):,}")
 
 # get the vocabulary
@@ -27,8 +37,8 @@ decode = lambda l: "".join([itos[i] for i in l])
 
 # create the train and validation splits
 n = len(data)
-train_data = data[: int(n * SPLIT_FRAC)]
-val_data = data[int(n * SPLIT_FRAC) :]
+train_data = data[: int(n * split_frac)]
+val_data = data[int(n * split_frac) :]
 
 # encode both to integers
 train_ids = encode(train_data)
