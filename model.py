@@ -106,7 +106,7 @@ class ModelConfig:
     bias: bool = True  # True: bias in Linears and LayerNorms, like GPT-2.
 
 
-class NameModel(nn.Module):
+class Namegen(nn.Module):
     def __init__(self, config):
         super().__init__()
         self.token_embedding_table = nn.Embedding(config.vocab_size, config.n_embd)

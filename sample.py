@@ -2,7 +2,7 @@ from contextlib import nullcontext
 import os
 import pickle
 import torch
-from model import ModelConfig, NameModel
+from model import ModelConfig, Namegen
 
 # -----------------------------------------------------------------------------
 out_dir = "out"  # ignored if init_from is not 'resume'
@@ -25,7 +25,7 @@ ctx = nullcontext()
 ckpt_path = os.path.join(out_dir, "ckpt.pt")
 checkpoint = torch.load(ckpt_path, map_location=device)
 modelconf = ModelConfig(**checkpoint["model_args"])
-model = NameModel(modelconf)
+model = Namegen(modelconf)
 state_dict = checkpoint["model"]
 unwanted_prefix = "_orig_mod."
 for k, v in list(state_dict.items()):

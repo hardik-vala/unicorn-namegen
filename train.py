@@ -5,7 +5,7 @@ import pickle
 import time
 import torch
 
-from model import ModelConfig, NameModel
+from model import ModelConfig, Namegen
 
 # ------------------------------------------------------------------------------
 # I/O
@@ -98,7 +98,7 @@ model_args = dict(
 )
 
 modelconf = ModelConfig(**model_args)
-model = NameModel(modelconf)
+model = Namegen(modelconf)
 model.to(device)
 
 # optimizer
