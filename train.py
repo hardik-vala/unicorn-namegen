@@ -1,3 +1,4 @@
+from contextlib import nullcontext
 import numpy as np
 import os
 import pickle
@@ -46,6 +47,8 @@ tokens_per_iter = batch_size * block_size
 print(f"tokens per iteration will be: {tokens_per_iter:,}")
 
 torch.manual_seed(24)
+device_type = "cuda" if "cuda" in device else "cpu" # for later use in torch.autocast
+ctx = nullcontext()
 
 # data loader
 data_dir = os.path.join("data", dataset)
@@ -66,6 +69,11 @@ def get_batch(split):
             for i in ix
         ]
     )
+    if device_type == "cuda":
+        # pin arrays x,y, which allows us to move them to GPU asynchronously (non_blocking=True)
+        x, y = x.pin_memory().to(device, non_blocking=True), y.pin_memory().to(device, non_blocking=True)
+    else:
+        x, y = x.to(device), y.to(device)
     return x, y
 
 
@@ -91,6 +99,7 @@ model_args = dict(
 
 modelconf = ModelConfig(**model_args)
 model = NameModel(modelconf)
+model.to(device)
 
 # optimizer
 optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
@@ -105,7 +114,8 @@ def estimate_loss(model):
         losses = torch.zeros(eval_iters)
         for k in range(eval_iters):
             X, Y = get_batch(split)
-            logits, loss = model(X, Y)
+            with ctx:
+              logits, loss = model(X, Y)
             losses[k] = loss.item()
         out[split] = losses.mean()
     model.train()

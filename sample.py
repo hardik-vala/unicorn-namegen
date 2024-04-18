@@ -1,3 +1,4 @@
+from contextlib import nullcontext
 import os
 import pickle
 import torch
@@ -18,6 +19,8 @@ device = "cpu"  # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1', etc.
 # -----------------------------------------------------------------------------
 
 torch.manual_seed(seed)
+device_type = "cuda" if "cuda" in device else "cpu" # for later use in torch.autocast
+ctx = nullcontext()
 
 ckpt_path = os.path.join(out_dir, "ckpt.pt")
 checkpoint = torch.load(ckpt_path, map_location=device)
@@ -31,6 +34,7 @@ for k, v in list(state_dict.items()):
 model.load_state_dict(state_dict)
 
 model.eval()
+model.to(device)
 
 meta_path = os.path.join("data", "meta.pkl")
 print(f"Loading meta from {meta_path}...")
@@ -43,7 +47,7 @@ decode = lambda l: "".join([itos[i] for i in l])
 sample_cnt = 0
 with torch.no_grad():
     while True:
-        x = torch.full((1, 1), stoi["!"], dtype=torch.long)
+        x = torch.full((1, 1), stoi["!"], dtype=torch.long, device=device)
         y = model.generate(x, max_new_tokens)
         raw = decode(y[0].tolist())
         parts = raw.split("!")

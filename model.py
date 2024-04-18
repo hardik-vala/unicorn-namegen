@@ -120,9 +120,11 @@ class NameModel(nn.Module):
         self.block_size = config.block_size
 
     def forward(self, idx, targets=None):
+        device = idx.device
         B, T = idx.shape
         tok_emb = self.token_embedding_table(idx)  # (B, T, C)
-        pos_emb = self.position_embedding_table(torch.arange(T))  # (T, C)
+        pos = torch.arange(T, device=device)
+        pos_emb = self.position_embedding_table(pos)  # (T, C)
         x = tok_emb + pos_emb  # (B, T, C)
         x = self.blocks(x)  # (B, T, C)
         logits = self.lm_head(x)  # (B, T, vocab_size)
