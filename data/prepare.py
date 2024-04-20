@@ -1,9 +1,12 @@
+import numpy as np
 import os
 import pickle
-import numpy as np
+import random
+
 
 # ------------------------------------------------------------------------------
 with_sec_edgar_names = True
+max_sec_edgar_names = 3000
 split_frac = 0.9
 # ------------------------------------------------------------------------------
 
@@ -18,6 +21,9 @@ data = data.replace("\n", "!")
 if with_sec_edgar_names:
     sec_edgar_names_file_path = os.path.join(os.path.dirname(__file__), "sec__edgar_company_names.txt")
     sec_edgar_names = read_names(sec_edgar_names_file_path)
+    if max_sec_edgar_names:
+        sec_edgar_names = random.sample(sec_edgar_names.split("\n"), k=max_sec_edgar_names)
+        sec_edgar_names = "\n".join(sec_edgar_names)
     data = f"{data}!{sec_edgar_names.replace("\n", "!")}"
 print(f"length of dataset in characters: {len(data):,}")
 
