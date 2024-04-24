@@ -1,3 +1,4 @@
+import csv
 import numpy as np
 import os
 import pickle
@@ -5,7 +6,7 @@ import random
 
 
 # ------------------------------------------------------------------------------
-with_sec_edgar_names = True
+with_sec_edgar_names = False
 max_sec_edgar_names = 3000
 split_frac = 0.9
 # ------------------------------------------------------------------------------
@@ -15,9 +16,23 @@ def read_names(file_path):
     with open(file_path, "r") as f:
         return f.read()
 
+def read_yc_names(file_path):
+    names = []
+    with open(file_path, "r") as f:
+        reader = csv.reader(f)
+        for row in reader:
+            name = row[0]
+            names.append(name)
+    return names
+
 names_file_path = os.path.join(os.path.dirname(__file__), "names.txt")
 data = read_names(names_file_path)
 data = data.replace("\n", "!")
+
+yc_companies_file_path = os.path.join(os.path.dirname(__file__), os.path.join("yc", "yc_companies.csv"))
+yc_names = read_yc_names(yc_companies_file_path)
+data = f"{data}!{"!".join(yc_names)}"
+
 if with_sec_edgar_names:
     sec_edgar_names_file_path = os.path.join(os.path.dirname(__file__), "sec__edgar_company_names.txt")
     sec_edgar_names = read_names(sec_edgar_names_file_path)
@@ -25,6 +40,7 @@ if with_sec_edgar_names:
         sec_edgar_names = random.sample(sec_edgar_names.split("\n"), k=max_sec_edgar_names)
         sec_edgar_names = "\n".join(sec_edgar_names)
     data = f"{data}!{sec_edgar_names.replace("\n", "!")}"
+
 print(f"length of dataset in characters: {len(data):,}")
 
 # get the vocabulary
