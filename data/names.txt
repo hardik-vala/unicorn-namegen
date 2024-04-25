@@ -108,7 +108,7 @@ BrowserStack
 Bucketplace
 Bukalapak
 Bunq
-Byju's
+Byjus
 ByteDance
 Byton
 C6 Bank
@@ -476,7 +476,7 @@ Mynt
 N26
 NantHealth
 NantOmics
-Nature's Fynd
+Natures Fynd
 Neo Financial
 NetDocuments
 Netskope
@@ -731,7 +731,7 @@ Twilio
 Twitter
 UBtech Robotics
 UCloud
-Ualá
+Uala
 Uber
 Ucar
 Ucommune
@@ -885,7 +885,7 @@ Airgas
 AK Steel Holding
 Alaska Air
 Alberto-Culver
-Albertson's
+Albertsons
 Alcoa
 Alleghany
 Allegheny Energy
@@ -985,7 +985,7 @@ Bethlehem Steel
 Beverly Enterprises
 Big Lots
 BJ Services
-BJ's Wholesale Club
+BJs Wholesale Club
 Black & Decker
 Black Hills
 BMC Software
@@ -1019,7 +1019,7 @@ Cardinal Health
 Caremark Rx
 Carlisle Cos.
 Carpenter Technology
-Casey's General Stores
+Caseys General Stores
 Caterpillar
 CBRL
 CDI
@@ -1114,19 +1114,19 @@ Devon Energy
 Di Giorgio
 Dial
 Diebold
-Dillard's
+Dillards
 DIMON
 Dole Food
 Dollar General
 Dollar Tree Stores
 Dominion Resources
-Domino's Pizza
+Dominos Pizza
 Dover
 Dow Chemical
 Dow Jones
 DPL
 DQE
-Dreyer's Grand Ice Cream
+Dreyers Grand Ice Cream
 DST Systems
 DTE Energy
 E.I. Du Pont de Nemours
@@ -1135,7 +1135,7 @@ Dun & Bradstreet
 DURA Automotive Systems
 DynCorp
 Dynegy
-E*Trade
+E-Trade
 E.W. Scripps
 Earthlink
 Eastman Chemical
@@ -1247,7 +1247,7 @@ H.J. Heinz
 Halliburton
 Harley-Davidson
 Harman International Industries
-Harrah's Entertainment
+Harrahs Entertainment
 Harris
 Harsco
 Hartford Financial Services
@@ -1327,14 +1327,14 @@ Kindred Healthcare
 KLA-Tencor
 K-Mart
 Knight-Ridder
-Kohl's
+Kohls
 KPMG Consulting
 Kroger
 L-3 Communications Holdings
 Laboratory of America Holdings
 Lam Research
 LandAmerica Financial
-Lands' End
+Lands End
 Landstar System
 La-Z-Boy
 Lear
@@ -1348,14 +1348,14 @@ Levi Strauss
 Lexmark International
 Limited
 Lincoln National
-Linens 'n Things
+Linens n Things
 Lithia Motors
 Liz Claiborne
 Lockheed Martin
 Loews
 Longs Drug Stores
 Louisiana-Pacific
-Lowe's Companies
+Lowes Companies
 LSI Logic
 LTV
 Lubrizol
@@ -1386,7 +1386,7 @@ May Department Stores
 Maytag
 MBNA
 McCormick
-McDonald's
+McDonalds
 McGraw-Hill Companies
 McKesson
 McLeodUSA
@@ -1395,7 +1395,7 @@ MDU Resources
 MeadWestvaco
 Medtronic
 Mellon Financial
-Men's Wearhouse
+Mens Wearhouse
 Merck
 Mercury General
 Merrill Lynch
@@ -1502,7 +1502,7 @@ Perini
 PerkinElmer
 Perot Systems
 Petco Animal Supplies
-Peter Kiewit Sons'
+Peter Kiewit Sons
 PETsMART
 Pfizer
 Pacific Gas & Electric
@@ -1514,7 +1514,7 @@ Phillips Petroleum Co
 Phillips Van Heusen
 Phoenix Companies
 Pier 1 Imports
-Pilgrim's Pride
+Pilgrims Pride
 Pinnacle West Capital
 Pioneer-Standard Electronics
 Pitney Bowes
@@ -1560,7 +1560,7 @@ R.R. Donnelley & Sons
 Radio Shack
 Raymond James Financial
 Raytheon
-Reader's Digest Association
+Readers Digest Association
 Reebok International
 Regions Financial
 Regis
@@ -1691,7 +1691,7 @@ Toll Brothers
 Torchmark
 Toro
 Tower Automotive
-Toys 'R' Us
+Toys R Us
 Trans World Entertainment
 TransMontaigne
 Transocean
@@ -1768,7 +1768,7 @@ Weatherford International
 Weis Markets
 Wellpoint Health Networks
 Wells Fargo
-Wendy's International
+Wendys International
 Werner Enterprises
 WESCO International
 Western Digital
@@ -2172,7 +2172,7 @@ Doman Industries
 Domtar
 Donner Minerals
 Dorel Industries
-Dr. Reddy's Laboratories
+Dr. Reddys Laboratories
 Draxis Health
 DRC Resources
 DSG International
