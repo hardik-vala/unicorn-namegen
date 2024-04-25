@@ -29,7 +29,7 @@ names_file_path = os.path.join(os.path.dirname(__file__), "names.txt")
 data = read_names(names_file_path)
 data = data.replace("\n", "!")
 
-yc_companies_file_path = os.path.join(os.path.dirname(__file__), os.path.join("yc", "yc_companies.csv"))
+yc_companies_file_path = os.path.join(os.path.dirname(__file__), "yc_companies.csv")
 yc_names = read_yc_names(yc_companies_file_path)
 data = f"{data}!{"!".join(yc_names)}"
 
