@@ -11,25 +11,27 @@ from model import ModelConfig, Namegen
 # I/O
 out_dir = "out"
 eval_iters = 200
-log_interval = 500
+log_interval = 200
 # wandb logging
-wandb_log = True
+wandb_log = False
 wandb_project = "namegen"
 wandb_run_name = "418-cpu"
 # data
 dataset = "names"
-batch_size = 40
-block_size = 20  # context length
+batch_size = 20
+block_size = 10  # context length
 # model
-n_layer = 5
-n_head = 5
-n_embd = 50
+n_layer = 4
+n_head = 4
+n_embd = 20
 dropout = 0.0  # for pretraining 0 is good, for finetuning try 0.1+
 bias = False  # do we use bias inside LayerNorm and Linear layers?
-write_checkpoint = True
+write_checkpoint =False
 # adamw optimizer
 learning_rate = 1e-4  # max learning rate
-max_iters = 10000
+max_iters = 500
+beta1 = 0.9
+beta2 = 0.99
 # system
 device = (
     "cpu"  # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1' etc., or try 'mps' on macbooks
@@ -102,7 +104,7 @@ model = Namegen(modelconf)
 model.to(device)
 
 # optimizer
-optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
+optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate, betas=(beta1, beta2))
 
 
 # helps estimate an arbitrarily accurate loss over either split using many batches
