@@ -30,6 +30,7 @@ write_checkpoint =False
 # adamw optimizer
 learning_rate = 1e-4  # max learning rate
 max_iters = 500
+weight_decay=1e-1
 beta1 = 0.9
 beta2 = 0.99
 # system
@@ -104,7 +105,7 @@ model = Namegen(modelconf)
 model.to(device)
 
 # optimizer
-optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate, betas=(beta1, beta2))
+optimizer = model.configure_optimizers(weight_decay, learning_rate, (beta1, beta2), device_type)
 
 
 # helps estimate an arbitrarily accurate loss over either split using many batches
