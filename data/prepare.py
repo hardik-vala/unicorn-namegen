@@ -6,17 +6,19 @@ import random
 
 
 # ------------------------------------------------------------------------------
-with_sec_edgar_names = False
-max_sec_edgar_names = 3000
+with_odbus_v1 = True
+max_odbus_v1_names = 8000
+with_sec_edgar_names = True
+max_sec_edgar_names = 8000
 split_frac = 0.9
 # ------------------------------------------------------------------------------
 
 # read the dataset
 def read_names(file_path):
     with open(file_path, "r") as f:
-        return f.read()
+        return [l.strip() for l in f.readlines()]
 
-def read_yc_names(file_path):
+def read_csv_names(file_path):
     names = []
     with open(file_path, "r") as f:
         reader = csv.reader(f)
@@ -27,19 +29,27 @@ def read_yc_names(file_path):
 
 names_file_path = os.path.join(os.path.dirname(__file__), "names.txt")
 data = read_names(names_file_path)
-data = data.replace("\n", "!")
 
 yc_companies_file_path = os.path.join(os.path.dirname(__file__), "yc_companies.csv")
-yc_names = read_yc_names(yc_companies_file_path)
-data = f"{data}!{"!".join(yc_names)}"
+yc_names = read_csv_names(yc_companies_file_path)
+data.extend(yc_names)
+
+if with_odbus_v1:
+    odbus_v1_file_path = os.path.join(os.path.dirname(__file__), "odbus_v1.csv")
+    odbus_v1_names = read_csv_names(odbus_v1_file_path)
+    if max_odbus_v1_names:
+        odbus_v1_names = random.sample(odbus_v1_names, k=max_odbus_v1_names)
+    data.extend(odbus_v1_names)
 
 if with_sec_edgar_names:
     sec_edgar_names_file_path = os.path.join(os.path.dirname(__file__), "sec__edgar_company_names.txt")
     sec_edgar_names = read_names(sec_edgar_names_file_path)
     if max_sec_edgar_names:
-        sec_edgar_names = random.sample(sec_edgar_names.split("\n"), k=max_sec_edgar_names)
-        sec_edgar_names = "\n".join(sec_edgar_names)
-    data = f"{data}!{sec_edgar_names.replace("\n", "!")}"
+        sec_edgar_names = random.sample(sec_edgar_names, k=max_sec_edgar_names)
+    data.extend(sec_edgar_names)
+
+random.shuffle(data)
+data = f"!{'!'.join(data)}!"
 
 print(f"length of dataset in characters: {len(data):,}")
 
