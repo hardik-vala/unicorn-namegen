@@ -7,9 +7,9 @@ import random
 
 # ------------------------------------------------------------------------------
 with_odbus_v1 = True
-max_odbus_v1_names = 8000
+max_odbus_v1_names = 12000
 with_sec_edgar_names = True
-max_sec_edgar_names = 8000
+max_sec_edgar_names = 12000
 split_frac = 0.9
 # ------------------------------------------------------------------------------
 
