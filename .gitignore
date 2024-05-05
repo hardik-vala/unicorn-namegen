@@ -1,6 +1,7 @@
 # data
 yc_companies.csv
 data/raw/ODBus_v1
+data/raw/startup_investments_crunchbase.csv
 
 # output
 out

@@ -34,6 +34,10 @@ yc_companies_file_path = os.path.join(os.path.dirname(__file__), "yc_companies.c
 yc_names = read_csv_names(yc_companies_file_path)
 data.extend(yc_names)
 
+startup_investments_crunchbase = os.path.join(os.path.dirname(__file__), "startup_investments_crunchbase.csv")
+cb_startup_names = read_names(startup_investments_crunchbase)
+data.extend(cb_startup_names)
+
 if with_odbus_v1:
     odbus_v1_file_path = os.path.join(os.path.dirname(__file__), "odbus_v1.csv")
     odbus_v1_names = read_csv_names(odbus_v1_file_path)

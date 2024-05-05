@@ -9,3 +9,9 @@ with corporate suffixes (inc., co., group, etc.) removed.
 (downloaded from
 https://www.kaggle.com/datasets/dattapiy/sec-edgar-companies-list) using
 `notebook/preprocess_sec_edgar_company_names.ipynb`.
+
+`odbus_v1.csv` is generated from `raw/ODBus_v1/ODBus_v1.csv1`.
+
+`startup_investments_crunchbase.csv` is generated from
+`raw/startup_investments_crunchbase.csv` (downloaded from
+https://www.kaggle.com/datasets/arindam235/startup-investments-crunchbase).
