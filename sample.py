@@ -19,7 +19,7 @@ device = "cpu"  # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1', etc.
 # -----------------------------------------------------------------------------
 
 torch.manual_seed(seed)
-device_type = "cuda" if "cuda" in device else "cpu" # for later use in torch.autocast
+device_type = "cuda" if "cuda" in device else "cpu"  # for later use in torch.autocast
 ctx = nullcontext()
 
 ckpt_path = os.path.join(out_dir, "ckpt.pt")
@@ -40,9 +40,29 @@ meta_path = os.path.join("data", "meta.pkl")
 print(f"Loading meta from {meta_path}...")
 with open(meta_path, "rb") as f:
     meta = pickle.load(f)
+merges = meta["merges"]
 stoi, itos = meta["stoi"], meta["itos"]
-encode = lambda s: [stoi[c] for c in s]
-decode = lambda l: "".join([itos[i] for i in l])
+encode1 = lambda s: [stoi[c] for c in s]
+decode1 = lambda l: "".join([itos[i] for i in l])
+
+
+def unmerge(ids, pair, idx):
+    newids = []
+    for i in ids:
+        if i == idx:
+            newids.append(pair[0])
+            newids.append(pair[1])
+        else:
+            newids.append(i)
+    return newids
+
+
+def decode(ids):
+    tokens = list(ids)
+    for pair, idx in reversed(merges.items()):
+        tokens = unmerge(tokens, pair, idx)
+    return decode1(tokens)
+
 
 sample_cnt = 0
 with torch.no_grad():
