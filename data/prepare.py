@@ -11,7 +11,7 @@ max_odbus_v1_names = 12000
 with_sec_edgar_names = True
 max_sec_edgar_names = 12000
 split_frac = 0.9
-vocab_size = 80
+vocab_size = 85
 # ------------------------------------------------------------------------------
 
 
@@ -41,6 +41,10 @@ data.extend(yc_names)
 startup_investments_crunchbase = os.path.join(os.path.dirname(__file__), "startup_investments_crunchbase.csv")
 cb_startup_names = read_names(startup_investments_crunchbase)
 data.extend(cb_startup_names)
+
+unicorns_file_path = os.path.join(os.path.dirname(__file__), "unicorns.csv")
+unicorn_names = read_csv_names(unicorns_file_path)
+data.extend(unicorn_names)
 
 if with_odbus_v1:
     odbus_v1_file_path = os.path.join(os.path.dirname(__file__), "odbus_v1.csv")

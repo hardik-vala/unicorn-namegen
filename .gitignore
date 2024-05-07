@@ -2,6 +2,7 @@
 yc_companies.csv
 data/raw/ODBus_v1
 data/raw/startup_investments_crunchbase.csv
+data/raw/unicorns_till_sep_2022.csv
 
 # output
 out
