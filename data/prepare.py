@@ -6,12 +6,14 @@ import random
 
 
 # ------------------------------------------------------------------------------
+with_gd_auctions_export = True
+max_gd_auctions_names = 3000
 with_odbus_v1 = True
-max_odbus_v1_names = 12000
+max_odbus_v1_names = 20000
 with_sec_edgar_names = True
-max_sec_edgar_names = 12000
-split_frac = 0.9
-vocab_size = 85
+max_sec_edgar_names = 20000
+split_frac = 0.95
+vocab_size = 90
 # ------------------------------------------------------------------------------
 
 
@@ -45,6 +47,13 @@ data.extend(cb_startup_names)
 unicorns_file_path = os.path.join(os.path.dirname(__file__), "unicorns.csv")
 unicorn_names = read_csv_names(unicorns_file_path)
 data.extend(unicorn_names)
+
+if with_gd_auctions_export:
+    gd_auctions_export_file_path = os.path.join(os.path.dirname(__file__), "gd_auctions_export.csv")
+    gd_auctions_names = read_csv_names(gd_auctions_export_file_path)
+    if max_gd_auctions_names:
+        gd_auctions_names = random.sample(gd_auctions_names, k=max_gd_auctions_names)
+    data.extend(gd_auctions_names)
 
 if with_odbus_v1:
     odbus_v1_file_path = os.path.join(os.path.dirname(__file__), "odbus_v1.csv")

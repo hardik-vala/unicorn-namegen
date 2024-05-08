@@ -15,3 +15,9 @@ https://www.kaggle.com/datasets/dattapiy/sec-edgar-companies-list) using
 `startup_investments_crunchbase.csv` is generated from
 `raw/startup_investments_crunchbase.csv` (downloaded from
 https://www.kaggle.com/datasets/arindam235/startup-investments-crunchbase).
+
+`raw/unicorns_till_sep_2022.csv` was downloaded from
+https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups.
+
+`raw/gd_auctions_export_1715053158020.csv` was downloaded from
+https://auctions.godaddy.com/ on May 6, 2024.
