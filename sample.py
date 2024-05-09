@@ -22,60 +22,69 @@ torch.manual_seed(seed)
 device_type = "cuda" if "cuda" in device else "cpu"  # for later use in torch.autocast
 ctx = nullcontext()
 
-ckpt_path = os.path.join(out_dir, "ckpt.pt")
-checkpoint = torch.load(ckpt_path, map_location=device)
-modelconf = ModelConfig(**checkpoint["model_args"])
-model = Namegen(modelconf)
-state_dict = checkpoint["model"]
-unwanted_prefix = "_orig_mod."
-for k, v in list(state_dict.items()):
-    if k.startswith(unwanted_prefix):
-        state_dict[k[len(unwanted_prefix) :]] = state_dict.pop(k)
-model.load_state_dict(state_dict)
 
-model.eval()
-model.to(device)
+def sample_names(num_samples):
+    ckpt_path = os.path.join(out_dir, "ckpt.pt")
+    checkpoint = torch.load(ckpt_path, map_location=device)
+    modelconf = ModelConfig(**checkpoint["model_args"])
+    model = Namegen(modelconf)
+    state_dict = checkpoint["model"]
+    unwanted_prefix = "_orig_mod."
+    for k, v in list(state_dict.items()):
+        if k.startswith(unwanted_prefix):
+            state_dict[k[len(unwanted_prefix) :]] = state_dict.pop(k)
+    model.load_state_dict(state_dict)
 
-meta_path = os.path.join("data", "meta.pkl")
-print(f"Loading meta from {meta_path}...")
-with open(meta_path, "rb") as f:
-    meta = pickle.load(f)
-merges = meta["merges"]
-stoi, itos = meta["stoi"], meta["itos"]
-encode1 = lambda s: [stoi[c] for c in s]
-decode1 = lambda l: "".join([itos[i] for i in l])
+    model.eval()
+    model.to(device)
 
+    meta_path = os.path.join("data", "meta.pkl")
+    print(f"Loading meta from {meta_path}...")
+    with open(meta_path, "rb") as f:
+        meta = pickle.load(f)
+    merges = meta["merges"]
+    stoi, itos = meta["stoi"], meta["itos"]
+    decode1 = lambda l: "".join([itos[i] for i in l])
 
-def unmerge(ids, pair, idx):
-    newids = []
-    for i in ids:
-        if i == idx:
-            newids.append(pair[0])
-            newids.append(pair[1])
-        else:
-            newids.append(i)
-    return newids
+    def unmerge(ids, pair, idx):
+        newids = []
+        for i in ids:
+            if i == idx:
+                newids.append(pair[0])
+                newids.append(pair[1])
+            else:
+                newids.append(i)
+        return newids
 
+    def decode(ids):
+        tokens = list(ids)
+        for pair, idx in reversed(merges.items()):
+            tokens = unmerge(tokens, pair, idx)
+        return decode1(tokens)
 
-def decode(ids):
-    tokens = list(ids)
-    for pair, idx in reversed(merges.items()):
-        tokens = unmerge(tokens, pair, idx)
-    return decode1(tokens)
-
-
-sample_cnt = 0
-with torch.no_grad():
-    while True:
-        x = torch.full((1, 1), stoi["!"], dtype=torch.long, device=device)
-        y = model.generate(x, max_new_tokens)
-        raw = decode(y[0].tolist())
-        parts = raw.split("!")
-        for i in range(1, len(parts) - 1):
-            print("---------------")
-            print(parts[i])
-            sample_cnt += 1
-            if sample_cnt >= num_samples:
+    names = []
+    with torch.no_grad():
+        while True:
+            x = torch.full((1, 1), stoi["!"], dtype=torch.long, device=device)
+            y = model.generate(x, max_new_tokens)
+            raw = decode(y[0].tolist())
+            parts = raw.split("!")
+            for i in range(1, len(parts) - 1):
+                names.append(parts[i])
+                if len(names) >= num_samples:
+                    break
+            if len(names) >= num_samples:
                 break
-        if sample_cnt >= num_samples:
-            break
+    
+    return names
+
+
+def main():
+    names = sample_names(num_samples)
+    for n in names:
+        print("---------------")
+        print(n)
+
+
+if __name__ == "__main__":
+    main()
