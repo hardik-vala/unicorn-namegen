@@ -1,0 +1,3 @@
+[submodule "namegen-1"]
+	path = namegen-1
+	url = git@hf.co:spaces/hardik-vala/namegen-1
