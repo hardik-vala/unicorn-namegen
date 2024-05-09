@@ -1,3 +1,5 @@
+.DS_Store
+
 # data
 yc_companies.csv
 data/raw/gd_auctions_export_1715053158020.csv
