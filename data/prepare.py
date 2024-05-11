@@ -70,8 +70,9 @@ if with_sec_edgar_names:
     data.extend(sec_edgar_names)
 
 random.shuffle(data)
-data = f"!{'!'.join(data)}!"
+print(f"no. of names: {len(data):,}")
 
+data = f"!{'!'.join(data)}!"
 print(f"length of dataset in characters: {len(data):,}")
 
 # Tokenization -----------------------------------------------------------------

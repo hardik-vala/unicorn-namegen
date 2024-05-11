@@ -11,7 +11,7 @@ from model import ModelConfig, Namegen
 # I/O
 out_dir = "out"
 eval_iters = 200
-log_interval = 200
+log_interval = 500
 # wandb logging
 wandb_log = False
 wandb_project = "namegen"
@@ -22,14 +22,14 @@ batch_size = 20
 block_size = 10  # context length
 # model
 n_layer = 4
-n_head = 4
-n_embd = 20
+n_head = 2
+n_embd = 12
 dropout = 0.0  # for pretraining 0 is good, for finetuning try 0.1+
 bias = False  # do we use bias inside LayerNorm and Linear layers?
-write_checkpoint =False
+write_checkpoint = True
 # adamw optimizer
 learning_rate = 1e-4  # max learning rate
-max_iters = 500
+max_iters = 10000
 weight_decay=1e-1
 beta1 = 0.9
 beta2 = 0.99
@@ -166,4 +166,4 @@ if write_checkpoint:
         "config": config,
     }
     print(f"saving checkpoint to {out_dir}")
-    torch.save(checkpoint, os.path.join(out_dir, "ckpt.pt"))
+    torch.save(checkpoint, os.path.join(out_dir, "ckpt_tmp.pt"))
